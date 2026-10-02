@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://timarsicoper01210-arch.github.io/tims-games/sitemap.xml

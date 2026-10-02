@@ -1,0 +1,89 @@
+{
+  "title": "Devine la série Netflix en 3 emojis",
+  "theme": "séries Netflix cultes",
+  "hook": "Vrai binge-watcher ou juste pour les vues ? Prouve-le en 8 emojis 👀",
+  "questions": [
+    {
+      "q": "🦑🔴🟢",
+      "choices": [
+        "Squid Game",
+        "Alice in Borderland",
+        "Money Heist",
+        "The Platform"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "👦🚲💡",
+      "choices": [
+        "Dark",
+        "Stranger Things",
+        "Riverdale",
+        "Wednesday"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🖤🕷️🏫",
+      "choices": [
+        "Sabrina",
+        "You",
+        "Wednesday",
+        "Élite"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🎭💰🏦",
+      "choices": [
+        "Lupin",
+        "Ozark",
+        "Breaking Bad",
+        "Money Heist"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "👑💃🎻",
+      "choices": [
+        "The Crown",
+        "Bridgerton",
+        "Outer Banks",
+        "Emily in Paris"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🔪📚👀",
+      "choices": [
+        "Dexter",
+        "Mindhunter",
+        "You",
+        "Criminal Minds"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🗼👩‍💼👗",
+      "choices": [
+        "Emily in Paris",
+        "Sex Education",
+        "Gossip Girl",
+        "Younger"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "⚔️🐺🧙",
+      "choices": [
+        "Vikings",
+        "Shadow and Bone",
+        "Game of Thrones",
+        "The Witcher"
+      ],
+      "answer": 3
+    }
+  ],
+  "date": "2026-10-02",
+  "engine": "emoji-guess"
+}
