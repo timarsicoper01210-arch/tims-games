@@ -29,8 +29,12 @@
   }
 
   function needsRevalidation(validatedAt, now) {
-    return now - validatedAt > 7 * DAY;
+    return validatedAt > now || now - validatedAt > 7 * DAY;
   }
 
-  return { isArchiveLocked: isArchiveLocked, shouldShowInterstitial: shouldShowInterstitial, formatShare: formatShare, hintAllowed: hintAllowed, needsRevalidation: needsRevalidation };
+  function premiumAvailable(config) {
+    return Boolean(config && config.premium && config.premium.checkoutUrl);
+  }
+
+  return { premiumAvailable: premiumAvailable, isArchiveLocked: isArchiveLocked, shouldShowInterstitial: shouldShowInterstitial, formatShare: formatShare, hintAllowed: hintAllowed, needsRevalidation: needsRevalidation };
 });

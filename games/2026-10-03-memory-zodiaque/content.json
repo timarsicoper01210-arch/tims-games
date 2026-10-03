@@ -1,0 +1,17 @@
+{
+  "title": "Memory zodiaque",
+  "theme": "astrologie",
+  "hook": "Reconnaîtras-tu ton signe plus vite que ton ex ne t'a ghosté ? ♈",
+  "pairs": [
+    "♈",
+    "♉",
+    "♊",
+    "♋",
+    "♌",
+    "♍",
+    "♎",
+    "♏"
+  ],
+  "date": "2026-10-03",
+  "engine": "memory"
+}

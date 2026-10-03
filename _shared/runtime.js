@@ -134,7 +134,7 @@
         root.before(top);
         adSlot(top);
         premiumFooter();
-        if (C.isArchiveLocked(state.content.date, today(), isPremium())) return showLocked(root);
+        if (C.premiumAvailable(state.config) && C.isArchiveLocked(state.content.date, today(), isPremium())) return showLocked(root);
         render(state.content, root);
         state.startedAt = Date.now();
         window.__gameState = 'ready';
