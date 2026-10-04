@@ -1,0 +1,89 @@
+{
+  "title": "Le quiz des films cultes",
+  "theme": "cinéma",
+  "hook": "Quel film connais-tu mieux que les autres ? 🎬",
+  "questions": [
+    {
+      "q": "Qui a joué le rôle de Jack Sparrow dans Pirates des Caraïbes ?",
+      "choices": [
+        "Johnny Depp",
+        "Tom Cruise",
+        "Dwayne Johnson",
+        "Leonardo DiCaprio"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Dans quel film Brad Pitt joue-t-il le rôle de l'architecte de la Tour Eiffel ?",
+      "choices": [
+        "Le labyrinthe de Pan",
+        "Cent ans de solitude",
+        "Le Talon d'Achille",
+        "L'Étrange Noël de Mr. Bean"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Quel acteur a joué le rôle de Superman dans les années 1970 ?",
+      "choices": [
+        "Christian Bale",
+        "Henry Cavill",
+        "Christopher Reeve",
+        "George Clooney"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Quel film a remporté le plus de Oscars en 2023 ?",
+      "choices": [
+        "The Whale",
+        "Everything Everywhere All At Once",
+        "The Power of the Dog",
+        "The Banshees of Inisheer"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dans quel film Tom Hanks incarne-t-il un personnage qui s'entretient avec un fantôme ?",
+      "choices": [
+        "Le fantôme de l'opéra",
+        "Forrest Gump",
+        "Le chant des sirènes",
+        "La vie est belle"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Quel acteur a joué le rôle de Tony Stark dans la saga Iron Man ?",
+      "choices": [
+        "Robert Downey Jr",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Tom Hardy"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel film de Disney a sorti en 2021 le personnage de Encanto ?",
+      "choices": [
+        "Raya et le dernier dragon",
+        "Encanto",
+        "Coco",
+        "Moana"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Qui a joué le rôle de l'homme-araignée dans Spider-Man (2002) ?",
+      "choices": [
+        "Andrew Garfield",
+        "Tom Holland",
+        "Tobey Maguire",
+        "Jake Gyllenhaal"
+      ],
+      "answer": 2
+    }
+  ],
+  "date": "2026-10-04",
+  "engine": "quiz"
+}
