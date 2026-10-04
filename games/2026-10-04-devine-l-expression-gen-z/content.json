@@ -1,0 +1,89 @@
+{
+  "title": "Devine l'expression Gen Z",
+  "theme": "expressions Gen Z",
+  "hook": "Tu captes tout ça sans explication ? 👀",
+  "questions": [
+    {
+      "q": "😤💢",
+      "choices": [
+        "Être clean",
+        "Faire le mala",
+        "Avoir le seum",
+        "Avoir la hess"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "😎✨",
+      "choices": [
+        "Être clean",
+        "C'est chaud",
+        "Être en PLS",
+        "Se la raconter"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "😏💪",
+      "choices": [
+        "Avoir le seum",
+        "Avoir le move",
+        "Avoir la hess",
+        "Faire le mala"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🔥😬",
+      "choices": [
+        "Être en PLS",
+        "C'est chaud",
+        "Se la raconter",
+        "Être clean"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "😩🛌",
+      "choices": [
+        "Être en PLS",
+        "Avoir la hess",
+        "Faire le mala",
+        "Avoir le move"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "😣💸",
+      "choices": [
+        "C'est chaud",
+        "Se la raconter",
+        "Avoir la hess",
+        "Avoir le seum"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🗣️💅",
+      "choices": [
+        "Être clean",
+        "Avoir le move",
+        "Être en PLS",
+        "Se la raconter"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🕺💡",
+      "choices": [
+        "Avoir la hess",
+        "Avoir le move",
+        "Faire le mala",
+        "Avoir le seum"
+      ],
+      "answer": 1
+    }
+  ],
+  "date": "2026-10-04",
+  "engine": "emoji-guess"
+}
