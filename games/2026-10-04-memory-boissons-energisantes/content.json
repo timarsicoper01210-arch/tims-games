@@ -1,0 +1,17 @@
+{
+  "title": "Memory boissons énergisantes",
+  "theme": "boissons énergisantes",
+  "hook": "Tu reconnais toutes ces canettes les yeux fermés ? ⚡",
+  "pairs": [
+    "Monster",
+    "Red Bull",
+    "Prime",
+    "Celsius",
+    "Gorilla",
+    "Panda",
+    "Rockstar",
+    "Burn"
+  ],
+  "date": "2026-10-04",
+  "engine": "memory"
+}
