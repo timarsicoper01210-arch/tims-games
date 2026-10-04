@@ -1,0 +1,89 @@
+{
+  "title": "Le quiz Coupe du monde 2026",
+  "theme": "Coupe du monde 2026",
+  "hook": "Vrai fan de foot ou pas ? Prouve-le sans tricher... 👀",
+  "questions": [
+    {
+      "q": "Combien d'équipes participeront à la Coupe du monde 2026, un record ?",
+      "choices": [
+        "48",
+        "32",
+        "40",
+        "64"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quels pays co-organisent la Coupe du monde 2026 ?",
+      "choices": [
+        "Espagne, Portugal, Maroc",
+        "Brésil, Argentine, Uruguay",
+        "USA, Canada, Mexique",
+        "Allemagne, France, Belgique"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Qui a remporté la Coupe du monde 2022 au Qatar ?",
+      "choices": [
+        "Brésil",
+        "Argentine",
+        "France",
+        "Croatie"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Qui détient le record de buts marqués en Coupe du monde, toutes éditions confondues ?",
+      "choices": [
+        "Pelé",
+        "Ronaldo Nazário",
+        "Lionel Messi",
+        "Miroslav Klose"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "En quelle année la France a-t-elle remporté son premier titre mondial ?",
+      "choices": [
+        "1998",
+        "2018",
+        "1994",
+        "2006"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Combien de matchs une équipe joue-t-elle au minimum en phase de groupes ?",
+      "choices": [
+        "4",
+        "1",
+        "3",
+        "2"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Comment s'appelle le trophée remis au vainqueur depuis 1974 ?",
+      "choices": [
+        "Coupe Jules Rimet",
+        "Ballon d'Or",
+        "Soulier d'Or",
+        "FIFA World Cup Trophy"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Quel pays a accueilli la toute première Coupe du monde en 1930 ?",
+      "choices": [
+        "Italie",
+        "Uruguay",
+        "Brésil",
+        "France"
+      ],
+      "answer": 1
+    }
+  ],
+  "date": "2026-10-04",
+  "engine": "quiz"
+}
