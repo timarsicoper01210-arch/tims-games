@@ -1,0 +1,15 @@
+{
+  "title": "Sauces tacos : du plus doux au plus fort",
+  "theme": "Sauces tacos",
+  "hook": "Du plus doux au plus fort... tu les places dans l'ordre ?",
+  "items": [
+    "Blanche",
+    "Fromagère",
+    "Biggy",
+    "Algérienne",
+    "Samouraï",
+    "Harissa"
+  ],
+  "date": "2026-10-04",
+  "engine": "ranking"
+}
