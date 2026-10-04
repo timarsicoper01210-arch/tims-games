@@ -1,0 +1,33 @@
+{
+  "title": "Les desserts qui ont pris TikTok d'assaut",
+  "theme": "desserts viraux TikTok",
+  "hook": "Un indice, des lettres en vrac : tu devines le dessert avant la fin ?",
+  "items": [
+    {
+      "word": "MACARON",
+      "hint": "Petite coque colorée garnie de ganache"
+    },
+    {
+      "word": "TIRAMISU",
+      "hint": "Dessert italien au café et mascarpone"
+    },
+    {
+      "word": "CHURROS",
+      "hint": "Beignet espagnol frit saupoudré de sucre"
+    },
+    {
+      "word": "BAKLAVA",
+      "hint": "Pâtisserie orientale au miel et aux pistaches"
+    },
+    {
+      "word": "CROFFLE",
+      "hint": "Croissant gaufré tendance venu de Corée"
+    },
+    {
+      "word": "DALGONA",
+      "hint": "Café coréen fouetté jusqu'à devenir mousseux"
+    }
+  ],
+  "date": "2026-10-04",
+  "engine": "scramble"
+}
