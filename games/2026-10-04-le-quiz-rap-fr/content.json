@@ -1,0 +1,89 @@
+{
+  "title": "Le quiz rap FR",
+  "theme": "rap français",
+  "hook": "Seuls les vrais auditeurs font un sans-faute 🎧",
+  "questions": [
+    {
+      "q": "Quel rappeur a sorti l'album « Civilisation » ?",
+      "choices": [
+        "Orelsan",
+        "Nekfeu",
+        "Damso",
+        "SCH"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel rappeur a sorti l'album « Ipséité » ?",
+      "choices": [
+        "Nekfeu",
+        "Damso",
+        "Booba",
+        "Jul"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quel rappeur est surnommé le « Duc de Boulogne » ?",
+      "choices": [
+        "Kaaris",
+        "Rohff",
+        "Booba",
+        "Jul"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Quel groupe marseillais a sorti « L'École du micro d'argent » ?",
+      "choices": [
+        "Svinkels",
+        "113",
+        "Ärsenik",
+        "IAM"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "De quelle ville est originaire le rappeur Jul ?",
+      "choices": [
+        "Lyon",
+        "Marseille",
+        "Lille",
+        "Toulouse"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quel groupe a sorti l'album « Dans la légende » ?",
+      "choices": [
+        "Soprano",
+        "Lomepal",
+        "PNL",
+        "Gims"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Avec quel groupe Nekfeu s'est-il fait connaître ?",
+      "choices": [
+        "1995",
+        "Sexion d'Assaut",
+        "Psy 4 de la Rime",
+        "113"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel rappeur a sorti l'album « Flip » ?",
+      "choices": [
+        "Vald",
+        "Nekfeu",
+        "Roméo Elvis",
+        "Lomepal"
+      ],
+      "answer": 3
+    }
+  ],
+  "date": "2026-10-04",
+  "engine": "quiz"
+}

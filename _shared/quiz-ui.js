@@ -51,6 +51,7 @@
           var d = (o && o.stepDelayMs) || 0;
           while (quiz.current()) {
             await GF.sleep(d);
+            if (quiz.index() === quiz.total - 1 && o && o.beforeFinalMove) { try { await o.beforeFinalMove(); } catch (e) {} }
             choices.children[quiz.current().answer].click();
             await GF.sleep(800);
           }
