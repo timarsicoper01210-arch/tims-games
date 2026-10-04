@@ -1,0 +1,89 @@
+{
+  "title": "Devine l'anime avec ces emojis 🔥",
+  "theme": "animes populaires sur TikTok",
+  "hook": "Y'a toujours un qui bloque tout le monde... lequel pour toi ? 👀",
+  "questions": [
+    {
+      "q": "🏴‍☠️🍖🗺️",
+      "choices": [
+        "One Piece",
+        "Black Clover",
+        "Fairy Tail",
+        "Toriko"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🦊🍜🥷",
+      "choices": [
+        "Bleach",
+        "Naruto",
+        "Boruto",
+        "Hunter x Hunter"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "📓💀👁️",
+      "choices": [
+        "Tokyo Ghoul",
+        "Another",
+        "Death Note",
+        "Death Parade"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "👹🩸🔵",
+      "choices": [
+        "Bleach",
+        "Chainsaw Man",
+        "Tokyo Revengers",
+        "Jujutsu Kaisen"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🐉⭐🔥",
+      "choices": [
+        "Saint Seiya",
+        "Dragon Ball Z",
+        "One Punch Man",
+        "Beyblade"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🗡️🌊👹",
+      "choices": [
+        "Demon Slayer",
+        "Bleach",
+        "Tokyo Revengers",
+        "Hunter x Hunter"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🧟🏰⚔️",
+      "choices": [
+        "Vinland Saga",
+        "Parasyte",
+        "Kingdom",
+        "Attack on Titan"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "💥🦸‍♂️🏫",
+      "choices": [
+        "One Punch Man",
+        "Mob Psycho 100",
+        "My Hero Academia",
+        "Tiger & Bunny"
+      ],
+      "answer": 2
+    }
+  ],
+  "date": "2026-10-04",
+  "engine": "emoji-guess"
+}
