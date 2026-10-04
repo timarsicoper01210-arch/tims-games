@@ -1,0 +1,33 @@
+{
+  "title": "Sneakers mélangées : les reconnais-tu ?",
+  "theme": "sneakers cultes",
+  "hook": "Tu reconnais la sneaker cachée dans ces lettres ? 👟",
+  "items": [
+    {
+      "word": "NIKE",
+      "hint": "Le logo en forme de virgule, marque reine du sport"
+    },
+    {
+      "word": "ADIDAS",
+      "hint": "Trois bandes sur le côté, marque allemande"
+    },
+    {
+      "word": "PUMA",
+      "hint": "Un félin bondissant comme logo, marque sportswear"
+    },
+    {
+      "word": "CONVERSE",
+      "hint": "Modèle star à étoile, semelle en caoutchouc blanc"
+    },
+    {
+      "word": "VANS",
+      "hint": "Marque de skate avec son damier emblématique"
+    },
+    {
+      "word": "JORDAN",
+      "hint": "Basket signature d'une légende du basket US"
+    }
+  ],
+  "date": "2026-10-04",
+  "engine": "scramble"
+}
