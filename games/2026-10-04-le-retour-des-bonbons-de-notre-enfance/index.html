@@ -1,0 +1,13 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>Le retour des bonbons de notre enfance — Mots cachés</title>
+<meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="data:,"><meta name="description" content="Mots cachés gratuit du jour : bonbons de notre enfance. Tu te souviens de tous les noms ? Prouve-le en commentaire 👀">
+<link rel="stylesheet" href="../../_shared/style.css">
+<style>
+.ws-grid { display:grid; gap:3px; width:100%; touch-action:manipulation; }
+.ws-cell { aspect-ratio:1; border:0; border-radius:6px; background:var(--card); color:var(--text); font-weight:700; font-size:clamp(.8rem,4.2vw,1.2rem); cursor:pointer; padding:0; }
+.ws-cell.start { background:#ffd166; color:#111; } .ws-cell.found { background:var(--ok); color:#111; } .ws-cell.hint { outline:3px solid #ffd166; }
+.ws-words { display:flex; flex-wrap:wrap; gap:6px; justify-content:center; }
+.ws-word { padding:4px 10px; border-radius:999px; background:var(--card); font-size:.9rem; } .ws-word.done { text-decoration:line-through; opacity:.5; }
+</style></head>
+<body><main id="game"></main>
+<script src="../../_shared/runtime-core.js"></script><script src="../../_shared/runtime.js"></script>
+<script src="logic.js"></script><script src="game.js"></script></body></html>
