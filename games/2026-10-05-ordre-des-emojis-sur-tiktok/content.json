@@ -1,0 +1,14 @@
+{
+  "title": "Ordre des emojis sur TikTok",
+  "theme": "Emojis TikTok",
+  "hook": "Du plus utilisé au moins utilisé : tu devines le dernier ?",
+  "items": [
+    "Coeur",
+    "Rire",
+    "Oeil",
+    "Méga",
+    "Drapeau"
+  ],
+  "date": "2026-10-05",
+  "engine": "ranking"
+}
