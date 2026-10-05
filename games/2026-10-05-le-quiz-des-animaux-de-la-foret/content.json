@@ -1,0 +1,89 @@
+{
+  "title": "Le quiz des animaux de la forêt",
+  "theme": "Animaux de la forêt",
+  "hook": "Tu connais les secrets de la forêt ? Découvre si tu es un vrai expert ! 🌲",
+  "questions": [
+    {
+      "q": "Quel animal utilise des outils pour extraire des insectes de leur coquille ?",
+      "choices": [
+        "Écureuil",
+        "Cerf",
+        "Corbeau",
+        "Opossum"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Quel animal possède la dentition la plus complexe du monde ?",
+      "choices": [
+        "Lion",
+        "Éléphant",
+        "Rat",
+        "Chimpanzé"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Quel animal peut dormir jusqu'à 22 heures par jour ?",
+      "choices": [
+        "Chauve-souris",
+        "Lézard",
+        "Gorille",
+        "Paresseux"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Quel animal a des yeux qui ne clignent jamais ?",
+      "choices": [
+        "Chien",
+        "Chat",
+        "Cameleon",
+        "Crapaud"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Quel animal a la langue la plus longue par rapport à sa taille ?",
+      "choices": [
+        "Chameau",
+        "Langoustine",
+        "Crapaud",
+        "Girafe"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Quel animal a des doigts qui ressemblent à des mains ?",
+      "choices": [
+        "Ours",
+        "Singe",
+        "Panda",
+        "Mouette"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quel animal peut ouvrir des boîtes en métal avec ses pattes ?",
+      "choices": [
+        "Corbeau",
+        "Oiseau de proie",
+        "Souris",
+        "Chauve-souris"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel animal peut identifier les visages humains ?",
+      "choices": [
+        "Chien",
+        "Chat",
+        "Lion",
+        "Hibou"
+      ],
+      "answer": 0
+    }
+  ],
+  "date": "2026-10-05",
+  "engine": "quiz"
+}
