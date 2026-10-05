@@ -1,0 +1,12 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>Memory festival d'été — Memory</title>
+<meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="data:,"><meta name="description" content="Memory gratuit du jour : festival d'été. La dernière paire, tout le monde la rate… tu la vois ? 🎪">
+<link rel="stylesheet" href="../../_shared/style.css">
+<style>
+.mm-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:8px; width:100%; }
+.mm-card { aspect-ratio:3/4; border:0; border-radius:12px; background:var(--accent); color:transparent; font-size:clamp(1rem,7vw,2rem); font-weight:700; cursor:pointer; }
+.mm-card.open, .mm-card.done { background:var(--card); color:var(--text); }
+.mm-card.done { outline:2px solid var(--ok); } .mm-card.peek { background:#ffd166; color:#111; }
+</style></head>
+<body><main id="game"></main>
+<script src="../../_shared/runtime-core.js"></script><script src="../../_shared/runtime.js"></script>
+<script src="logic.js"></script><script src="game.js"></script></body></html>
