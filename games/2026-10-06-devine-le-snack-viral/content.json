@@ -1,0 +1,89 @@
+{
+  "title": "Devine le snack viral",
+  "theme": "snacks viraux",
+  "hook": "Quel est ton snack préféré de TikTok ? 🍔",
+  "questions": [
+    {
+      "q": "🍟🥫",
+      "choices": [
+        "Chips de brique",
+        "Poulet frit",
+        "Tacos",
+        "Chips de fromage"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🍩🫧",
+      "choices": [
+        "Donut au beurre de cacahuète",
+        "Donut au chocolat",
+        "Donut au glaçage",
+        "Donut au sirop"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🍕🫓",
+      "choices": [
+        "Pizza de campagne",
+        "Pizza aux ananas",
+        "Pizza de pizzaiolo",
+        "Pizza au fromage"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🌮🥙",
+      "choices": [
+        "Tacos",
+        "Bowl de quinoa",
+        "Wrap",
+        "Burrito"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🍫🫧",
+      "choices": [
+        "Chocolat chaud",
+        "Chocolat fondu",
+        "Chocolat de Pâques",
+        "Chocolat de Noël"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🥤🧊",
+      "choices": [
+        "Boisson gazeuse",
+        "Eau gazeuse",
+        "Eau minérale",
+        "Eau plate"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🥯🫧",
+      "choices": [
+        "Pain au chocolat",
+        "Pain de mie",
+        "Pain de campagne",
+        "Pain de seigle"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🥫🥙",
+      "choices": [
+        "Bowl de quinoa",
+        "Bowl de riz",
+        "Bowl de lentilles",
+        "Bowl de haricots"
+      ],
+      "answer": 0
+    }
+  ],
+  "date": "2026-10-06",
+  "engine": "emoji-guess"
+}
