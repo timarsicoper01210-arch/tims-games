@@ -1,0 +1,33 @@
+{
+  "title": "Les mots mélangés du setup gamer",
+  "theme": "setup gamer",
+  "hook": "Le dernier bloque tout le monde… tu le vois ? Dis-le en commentaire 🎮",
+  "items": [
+    {
+      "word": "CLAVIER",
+      "hint": "Il a des touches et fait tac-tac quand tu écris"
+    },
+    {
+      "word": "SOURIS",
+      "hint": "Elle clique et glisse sur un tapis"
+    },
+    {
+      "word": "CASQUE",
+      "hint": "Sur les oreilles, pour entendre les pas ennemis"
+    },
+    {
+      "word": "MANETTE",
+      "hint": "Deux sticks et des gâchettes, pour la console"
+    },
+    {
+      "word": "WEBCAM",
+      "hint": "Petite caméra qui te filme pendant un live"
+    },
+    {
+      "word": "MICRO",
+      "hint": "Sans lui, ton équipe n'entend pas tes appels en vocal"
+    }
+  ],
+  "date": "2026-10-06",
+  "engine": "scramble"
+}
