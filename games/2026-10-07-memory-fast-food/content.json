@@ -1,0 +1,17 @@
+{
+  "title": "Memory fast-food",
+  "theme": "fast-food",
+  "hook": "Tu retrouves la dernière paire avant moi ? 🍔",
+  "pairs": [
+    "🍔",
+    "🍟",
+    "🍕",
+    "🌭",
+    "🌮",
+    "🥤",
+    "🍩",
+    "🍦"
+  ],
+  "date": "2026-10-07",
+  "engine": "memory"
+}
