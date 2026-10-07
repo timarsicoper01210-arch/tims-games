@@ -1,0 +1,14 @@
+{
+  "title": "Ordre des pétards",
+  "theme": "Feux d'artifice",
+  "hook": "Du moins bruyant au plus tonitruant : tu les reconnaîtras ?",
+  "items": [
+    "Pétard de poche",
+    "Pétard ordinaire",
+    "Pétard de rue",
+    "Pétard de festival",
+    "Pétard de guerre"
+  ],
+  "date": "2026-10-07",
+  "engine": "ranking"
+}
