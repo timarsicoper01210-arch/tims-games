@@ -1,0 +1,89 @@
+{
+  "title": "Quiz Minecraft : t'as vraiment survécu ?",
+  "theme": "Minecraft",
+  "hook": "Tout le monde se plante sur la question du Nether... et toi ? 👀",
+  "questions": [
+    {
+      "q": "Quel mob siffle puis explose quand il s'approche de toi ?",
+      "choices": [
+        "Le zombie",
+        "Le creeper",
+        "L'enderman",
+        "Le blaze"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Comment s'appelle la dimension rouge remplie de lave ?",
+      "choices": [
+        "L'End",
+        "L'Aether",
+        "Le Vide",
+        "Le Nether"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Quel outil faut-il pour récupérer un bloc de pierre en le minant ?",
+      "choices": [
+        "La pelle",
+        "La hache",
+        "La pioche",
+        "La houe"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Quel objet sert à allumer un portail du Nether ?",
+      "choices": [
+        "Un briquet",
+        "Un seau d'eau",
+        "Une perle de l'Ender",
+        "Une torche"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel boss vit dans la dimension de l'End ?",
+      "choices": [
+        "Le Wither",
+        "Le ravageur",
+        "L'Ender Dragon",
+        "Le golem de fer"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Quel matériau donne l'armure la plus résistante du jeu ?",
+      "choices": [
+        "Le diamant",
+        "La netherite",
+        "L'or",
+        "Le fer"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quel est le surnom du créateur original de Minecraft ?",
+      "choices": [
+        "Dream",
+        "Jeb",
+        "Herobrine",
+        "Notch"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Quelle culture faut-il récolter pour fabriquer du pain ?",
+      "choices": [
+        "Le blé",
+        "La carotte",
+        "La betterave",
+        "Le cactus"
+      ],
+      "answer": 0
+    }
+  ],
+  "date": "2026-10-07",
+  "engine": "quiz"
+}
