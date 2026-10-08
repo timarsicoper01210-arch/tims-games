@@ -1,0 +1,89 @@
+{
+  "title": "Devine le jeu de société en émojis",
+  "theme": "jeux de société",
+  "hook": "Le dernier bloque tout le monde… et toi ? 🎲",
+  "questions": [
+    {
+      "q": "🎩🏨💰",
+      "choices": [
+        "Risk",
+        "Monopoly",
+        "Uno",
+        "Cluedo"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🔍🔪🏠",
+      "choices": [
+        "Cluedo",
+        "Dobble",
+        "Jenga",
+        "Twister"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🔴🟡4️⃣",
+      "choices": [
+        "Mikado",
+        "Scrabble",
+        "Puissance 4",
+        "Dames"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🧱🗼😬",
+      "choices": [
+        "Twister",
+        "Mikado",
+        "Dobble",
+        "Jenga"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🚢🎯💥",
+      "choices": [
+        "Bataille navale",
+        "Risk",
+        "Monopoly",
+        "Uno"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🔤🧩📖",
+      "choices": [
+        "Dobble",
+        "Scrabble",
+        "Cluedo",
+        "Jenga"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🐺🌙🏘️",
+      "choices": [
+        "Dobble",
+        "Risk",
+        "Les Loups-garous",
+        "Cluedo"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🥢🤏",
+      "choices": [
+        "Dobble",
+        "Twister",
+        "Scrabble",
+        "Mikado"
+      ],
+      "answer": 3
+    }
+  ],
+  "date": "2026-10-08",
+  "engine": "emoji-guess"
+}
