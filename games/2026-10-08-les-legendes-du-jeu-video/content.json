@@ -1,31 +1,31 @@
 {
-  "title": "Les légendes du jeu vidéo",
+  "title": "Le vocabulaire du jeu vidéo",
   "theme": "jeux vidéo",
-  "hook": "Ce personnage t’a déjà sauvé la vie… tu le trouves ? 🎮",
+  "hook": "Pixel, boss, console… tu remets toutes les lettres en ordre ? 🎮",
   "items": [
     {
-      "word": "SPRINT",
-      "hint": "Ce mode de course est très populaire dans les jeux de combat"
+      "word": "PIXEL",
+      "hint": "Petit carré qui compose une image à l'écran"
     },
     {
-      "word": "HAXOR",
-      "hint": "Un joueur qui utilise des trucs interdits pour gagner"
+      "word": "MANETTE",
+      "hint": "Accessoire avec boutons et joysticks pour contrôler un jeu"
     },
     {
-      "word": "GAMER",
-      "hint": "Celui qui passe des heures à jouer à ses jeux préférés"
+      "word": "AVATAR",
+      "hint": "Personnage qui représente le joueur dans un univers virtuel"
     },
     {
-      "word": "PAUSE",
-      "hint": "On la fait pour reprendre son souffle ou manger un peu"
+      "word": "CASQUE",
+      "hint": "Accessoire audio qui se porte sur les oreilles"
     },
     {
-      "word": "LEVEL",
-      "hint": "On monte dedans pour devenir plus fort"
+      "word": "CONSOLE",
+      "hint": "Machine conçue spécialement pour faire tourner des jeux"
     },
     {
-      "word": "BOSS",
-      "hint": "Le grand méchant à battre avant la fin du niveau"
+      "word": "PORTAIL",
+      "hint": "Passage magique vers un autre lieu ou une autre dimension"
     }
   ],
   "date": "2026-10-08",
