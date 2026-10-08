@@ -1,0 +1,33 @@
+{
+  "title": "Les légendes du jeu vidéo",
+  "theme": "jeux vidéo",
+  "hook": "Ce personnage t’a déjà sauvé la vie… tu le trouves ? 🎮",
+  "items": [
+    {
+      "word": "SPRINT",
+      "hint": "Ce mode de course est très populaire dans les jeux de combat"
+    },
+    {
+      "word": "HAXOR",
+      "hint": "Un joueur qui utilise des trucs interdits pour gagner"
+    },
+    {
+      "word": "GAMER",
+      "hint": "Celui qui passe des heures à jouer à ses jeux préférés"
+    },
+    {
+      "word": "PAUSE",
+      "hint": "On la fait pour reprendre son souffle ou manger un peu"
+    },
+    {
+      "word": "LEVEL",
+      "hint": "On monte dedans pour devenir plus fort"
+    },
+    {
+      "word": "BOSS",
+      "hint": "Le grand méchant à battre avant la fin du niveau"
+    }
+  ],
+  "date": "2026-10-08",
+  "engine": "scramble"
+}
