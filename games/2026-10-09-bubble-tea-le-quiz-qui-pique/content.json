@@ -1,0 +1,89 @@
+{
+  "title": "Bubble tea : le quiz qui pique 🧋",
+  "theme": "Bubble tea",
+  "hook": "Personne ne trouve la question sur le taro… et toi ? 🧋",
+  "questions": [
+    {
+      "q": "Dans quel pays le bubble tea a-t-il été inventé ?",
+      "choices": [
+        "Japon",
+        "Corée du Sud",
+        "Taïwan",
+        "Thaïlande"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "De quelle plante provient le tapioca des perles ?",
+      "choices": [
+        "Manioc",
+        "Pomme de terre",
+        "Maïs",
+        "Blé"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel thé compose le bubble tea au lait classique ?",
+      "choices": [
+        "Rooibos",
+        "Thé noir",
+        "Thé blanc",
+        "Verveine"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "À l'origine, le mot « bubble » du bubble tea désigne quoi ?",
+      "choices": [
+        "Des glaçons",
+        "Du lait en poudre",
+        "Les perles",
+        "La mousse du thé secoué"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Dans quelle décennie le bubble tea est-il apparu ?",
+      "choices": [
+        "Années 1980",
+        "Années 1950",
+        "Années 2010",
+        "Années 1920"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Le taro, parfum star du bubble tea, c'est quoi ?",
+      "choices": [
+        "Un agrume",
+        "Une fleur",
+        "Un tubercule",
+        "Une algue"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Le matcha est un thé vert en poudre originaire de quel pays ?",
+      "choices": [
+        "Brésil",
+        "Japon",
+        "Mexique",
+        "Kenya"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "De quelle couleur sont les perles de tapioca classiques ?",
+      "choices": [
+        "Vertes",
+        "Blanches",
+        "Rouges",
+        "Noires"
+      ],
+      "answer": 3
+    }
+  ],
+  "date": "2026-10-09",
+  "engine": "quiz"
+}
