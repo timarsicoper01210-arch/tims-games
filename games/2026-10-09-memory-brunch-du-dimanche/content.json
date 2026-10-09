@@ -1,0 +1,17 @@
+{
+  "title": "Memory brunch du dimanche",
+  "theme": "brunch du dimanche",
+  "hook": "La dernière paire, personne ne la retrouve… et toi ? 🥐",
+  "pairs": [
+    "🥐",
+    "☕",
+    "🍳",
+    "🥑",
+    "🥞",
+    "🧇",
+    "🥓",
+    "🧃"
+  ],
+  "date": "2026-10-09",
+  "engine": "memory"
+}
