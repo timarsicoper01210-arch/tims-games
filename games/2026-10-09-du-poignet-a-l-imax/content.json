@@ -1,0 +1,15 @@
+{
+  "title": "Du poignet à l'IMAX",
+  "theme": "Tailles d'écran",
+  "hook": "Du plus petit au plus grand écran : personne ne tient jusqu'au bout, et toi ?",
+  "items": [
+    "Apple Watch",
+    "iPhone",
+    "iPad",
+    "Écran de PC",
+    "Télé du salon",
+    "Écran IMAX"
+  ],
+  "date": "2026-10-09",
+  "engine": "ranking"
+}
