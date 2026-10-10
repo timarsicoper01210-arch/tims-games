@@ -1,0 +1,89 @@
+{
+  "title": "Devine le film Disney",
+  "theme": "films Disney",
+  "hook": "Seuls les vrais fans Disney font un sans-faute ✨",
+  "questions": [
+    {
+      "q": "🦁👑",
+      "choices": [
+        "Le Roi Lion",
+        "Tarzan",
+        "Bambi",
+        "Dumbo"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "👸❄️",
+      "choices": [
+        "La Belle au bois dormant",
+        "La Reine des neiges",
+        "Raiponce",
+        "Cendrillon"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🐠🔍",
+      "choices": [
+        "La Petite Sirène",
+        "Vaiana",
+        "Cars",
+        "Le Monde de Nemo"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🧸🤠🚀",
+      "choices": [
+        "Cars",
+        "Là-haut",
+        "Toy Story",
+        "Ratatouille"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🐀🍲",
+      "choices": [
+        "Zootopie",
+        "Ratatouille",
+        "Cendrillon",
+        "Coco"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🧞🪔🐒",
+      "choices": [
+        "Mulan",
+        "Hercule",
+        "Pocahontas",
+        "Aladdin"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🐘🎪",
+      "choices": [
+        "Dumbo",
+        "Bambi",
+        "Tarzan",
+        "Pinocchio"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🍯🐻",
+      "choices": [
+        "Le Livre de la jungle",
+        "Winnie l'Ourson",
+        "Bambi",
+        "Frère des ours"
+      ],
+      "answer": 1
+    }
+  ],
+  "date": "2026-10-10",
+  "engine": "emoji-guess"
+}
