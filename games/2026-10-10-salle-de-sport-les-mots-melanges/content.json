@@ -1,0 +1,33 @@
+{
+  "title": "Salle de sport : les mots mélangés",
+  "theme": "salle de sport",
+  "hook": "Le dernier mot, personne ne le trouve… et toi ? 💪",
+  "items": [
+    {
+      "word": "HALTERE",
+      "hint": "Poids à soulever, tenu d'une seule main"
+    },
+    {
+      "word": "SQUAT",
+      "hint": "Exercice de flexion des jambes, dos bien droit"
+    },
+    {
+      "word": "CARDIO",
+      "hint": "Effort qui fait battre le cœur très vite"
+    },
+    {
+      "word": "PROTEINE",
+      "hint": "Nutriment en poudre pris après la séance"
+    },
+    {
+      "word": "VESTIAIRE",
+      "hint": "Pièce où on se change avant de s'entraîner"
+    },
+    {
+      "word": "TAPIS",
+      "hint": "On le déroule au sol pour les abdos"
+    }
+  ],
+  "date": "2026-10-10",
+  "engine": "scramble"
+}
