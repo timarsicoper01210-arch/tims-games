@@ -1,0 +1,17 @@
+{
+  "title": "Métro, heure de pointe : serrés comme des sardines",
+  "theme": "métro à l'heure de pointe",
+  "hook": "Le mot le plus long, personne ne le voit… et toi ? 🚇",
+  "words": [
+    "METRO",
+    "RAME",
+    "QUAI",
+    "FOULE",
+    "ESCALATOR",
+    "TOURNIQUET",
+    "STRAPONTIN",
+    "ECOUTEURS"
+  ],
+  "date": "2026-10-10",
+  "engine": "word-search"
+}
