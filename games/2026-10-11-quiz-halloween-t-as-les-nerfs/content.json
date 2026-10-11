@@ -1,0 +1,89 @@
+{
+  "title": "Quiz Halloween : t'as les nerfs ? 🎃",
+  "theme": "Halloween",
+  "hook": "Le dernier, personne ne le trouve… et toi ? 🎃",
+  "questions": [
+    {
+      "q": "De quelle fête celtique Halloween est-elle issue ?",
+      "choices": [
+        "Beltane",
+        "Samhain",
+        "Yule",
+        "Lugnasad"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quel légume était sculpté avant la citrouille ?",
+      "choices": [
+        "Le navet",
+        "La courgette",
+        "La betterave",
+        "L'aubergine"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel jour tombe Halloween chaque année ?",
+      "choices": [
+        "1er novembre",
+        "30 octobre",
+        "31 octobre",
+        "2 novembre"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Qui a écrit le roman « Dracula » ?",
+      "choices": [
+        "Mary Shelley",
+        "Edgar Allan Poe",
+        "Stephen King",
+        "Bram Stoker"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Dans quel pays se trouve le château de Bran, dit « château de Dracula » ?",
+      "choices": [
+        "Hongrie",
+        "Roumanie",
+        "Bulgarie",
+        "Serbie"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Que signifie « Halloween » à l'origine ?",
+      "choices": [
+        "La veille de la Toussaint",
+        "La nuit des sorcières",
+        "La fête des citrouilles",
+        "Le festin des esprits"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quelle fête mexicaine honore les morts début novembre ?",
+      "choices": [
+        "Las Posadas",
+        "Cinco de Mayo",
+        "Dia de los Muertos",
+        "Le Carnaval de Veracruz"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Quel film de 1978 a lancé le tueur masqué Michael Myers ?",
+      "choices": [
+        "Scream",
+        "Vendredi 13",
+        "Ça",
+        "Halloween"
+      ],
+      "answer": 3
+    }
+  ],
+  "date": "2026-10-11",
+  "engine": "quiz"
+}
