@@ -1,0 +1,17 @@
+{
+  "title": "Memory aéroport : vol dans 2 h",
+  "theme": "aéroport avant le décollage",
+  "hook": "La dernière paire, personne ne la voit… et toi ? ✈️",
+  "pairs": [
+    "✈️",
+    "🧳",
+    "🎫",
+    "🛄",
+    "🗺️",
+    "🎧",
+    "☕",
+    "🔋"
+  ],
+  "date": "2026-10-11",
+  "engine": "memory"
+}
