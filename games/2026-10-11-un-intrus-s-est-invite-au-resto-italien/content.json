@@ -1,0 +1,63 @@
+{
+  "title": "Un intrus s'est invité au resto italien",
+  "theme": "Soirée resto italien",
+  "hook": "Le dernier, personne ne le voit… et toi ? 🍝",
+  "rounds": [
+    {
+      "rule": "Pâtes italiennes",
+      "odd": "Risotto",
+      "others": [
+        "Spaghetti",
+        "Penne",
+        "Fusilli"
+      ]
+    },
+    {
+      "rule": "Fromages italiens",
+      "odd": "Camembert",
+      "others": [
+        "Mozzarella",
+        "Parmesan",
+        "Gorgonzola"
+      ]
+    },
+    {
+      "rule": "Villes d'Italie",
+      "odd": "Barcelone",
+      "others": [
+        "Naples",
+        "Turin",
+        "Palerme"
+      ]
+    },
+    {
+      "rule": "Desserts italiens",
+      "odd": "Éclair",
+      "others": [
+        "Tiramisu",
+        "Panna cotta",
+        "Cannoli"
+      ]
+    },
+    {
+      "rule": "Herbes aromatiques",
+      "odd": "Cannelle",
+      "others": [
+        "Basilic",
+        "Origan",
+        "Romarin"
+      ]
+    },
+    {
+      "rule": "Ingrédients d'une vraie carbonara",
+      "odd": "Crème",
+      "others": [
+        "Guanciale",
+        "Pecorino",
+        "Jaune d'œuf"
+      ]
+    }
+  ],
+  "date": "2026-10-11",
+  "engine": "odd-one-out"
+}
