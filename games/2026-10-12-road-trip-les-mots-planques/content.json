@@ -1,0 +1,33 @@
+{
+  "title": "Road trip : les mots planqués",
+  "theme": "road trip en voiture",
+  "hook": "Un mot ici résiste à tout le monde… tu le trouves ? 🚗",
+  "items": [
+    {
+      "word": "ROUTE",
+      "hint": "Long ruban d'asphalte qui relie deux villes"
+    },
+    {
+      "word": "BAGAGE",
+      "hint": "On le charge dans le coffre avant de partir"
+    },
+    {
+      "word": "ESSENCE",
+      "hint": "On s'arrête à la pompe pour en remettre"
+    },
+    {
+      "word": "VALISE",
+      "hint": "On y range ses vêtements avant le départ"
+    },
+    {
+      "word": "PASSAGER",
+      "hint": "Celui qui n'est pas au volant"
+    },
+    {
+      "word": "PEAGE",
+      "hint": "On paie pour continuer sur l'autoroute"
+    }
+  ],
+  "date": "2026-10-12",
+  "engine": "scramble"
+}
