@@ -1,0 +1,17 @@
+{
+  "title": "L'École de la Vie",
+  "theme": "École",
+  "hook": "Tu as déjà vu ces objets en classe ? 📚",
+  "words": [
+    "TABLEAU",
+    "CHAISE",
+    "CRAYON",
+    "CAHIER",
+    "PROF",
+    "DEVOIR",
+    "PORTFOLIO",
+    "COURS"
+  ],
+  "date": "2026-10-12",
+  "engine": "word-search"
+}
