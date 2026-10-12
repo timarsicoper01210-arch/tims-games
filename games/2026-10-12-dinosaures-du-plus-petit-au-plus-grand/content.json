@@ -1,0 +1,15 @@
+{
+  "title": "Dinosaures du plus petit au plus grand",
+  "theme": "Taille des dinosaures",
+  "hook": "Du plus petit au plus grand... tu remets l'ordre sans te tromper ?",
+  "items": [
+    "Compsognathus",
+    "Vélociraptor",
+    "Tricératops",
+    "Tyrannosaure",
+    "Spinosaure",
+    "Argentinosaure"
+  ],
+  "date": "2026-10-12",
+  "engine": "ranking"
+}
