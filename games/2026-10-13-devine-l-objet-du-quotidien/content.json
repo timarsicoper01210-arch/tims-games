@@ -1,0 +1,89 @@
+{
+  "title": "Devine l'objet du quotidien",
+  "theme": "objets de la vie de tous les jours",
+  "hook": "Quel objet est-ce ? 🤔",
+  "questions": [
+    {
+      "q": "🧺🪑",
+      "choices": [
+        "Un salon",
+        "Un jardin",
+        "Un escalier",
+        "Un appartement"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🪞🪞",
+      "choices": [
+        "Un miroir",
+        "Une porte",
+        "Un mur",
+        "Un couloir"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "📬🧪",
+      "choices": [
+        "Un laboratoire",
+        "Un courrier",
+        "Un évier",
+        "Un placard"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🪨🪨",
+      "choices": [
+        "Un jardin",
+        "Un parking",
+        "Un ciment",
+        "Un terrain"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🪜🪜",
+      "choices": [
+        "Un escalier",
+        "Un balcon",
+        "Un toit",
+        "Un arbre"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🪑🪑",
+      "choices": [
+        "Un salon",
+        "Un appartement",
+        "Un canapé",
+        "Un escalier"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🪓🪓",
+      "choices": [
+        "Un jardin",
+        "Un outil",
+        "Un magasin",
+        "Un champ"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🪖🪖",
+      "choices": [
+        "Un avion",
+        "Un vaisseau",
+        "Un bateau",
+        "Un casque"
+      ],
+      "answer": 3
+    }
+  ],
+  "date": "2026-10-13",
+  "engine": "emoji-guess"
+}
