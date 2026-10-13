@@ -1,0 +1,18 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>Trois sur la même longueur, le dernier est seul — L'intrus</title>
+<meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="data:,"><meta name="description" content="L'intrus gratuit du jour : Langages de programmation. Trois sont dans le même camp, le dernier est tout seul… mais pourquoi ?">
+<link rel="stylesheet" href="../../_shared/style.css">
+<style>
+.oo-hook { text-align:center; font-weight:600; margin:0; }
+.oo-step { color:var(--muted); font-size:.85rem; letter-spacing:.08em; text-transform:uppercase; margin:0; }
+.oo-grid { display:grid; grid-template-columns:repeat(2,1fr); gap:10px; width:100%; }
+.oo-cell { min-height:88px; display:flex; align-items:center; justify-content:center; text-align:center; border:2px solid transparent; border-radius:14px; background:var(--card); color:var(--text); padding:10px; font-size:clamp(.9rem,4.2vw,1.1rem); font-weight:600; line-height:1.25; overflow-wrap:break-word; cursor:pointer; }
+.oo-cell.bad { border-color:var(--bad); color:var(--muted); }
+.oo-cell.good { border-color:var(--ok); background:#15362a; }
+.oo-cell.out { opacity:.35; text-decoration:line-through; }
+.oo-cell[disabled] { cursor:default; }
+.oo-rule { min-height:1.5em; text-align:center; color:var(--ok); font-weight:700; margin:0; }
+.oo-rule.miss { color:var(--bad); }
+</style></head>
+<body><main id="game"></main>
+<script src="../../_shared/runtime-core.js"></script><script src="../../_shared/runtime.js"></script>
+<script src="logic.js"></script><script src="game.js"></script></body></html>

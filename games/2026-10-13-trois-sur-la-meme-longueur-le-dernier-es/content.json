@@ -1,0 +1,63 @@
+{
+  "title": "Trois sur la même longueur, le dernier est seul",
+  "theme": "Langages de programmation",
+  "hook": "Trois sont dans le même camp, le dernier est tout seul… mais pourquoi ?",
+  "rounds": [
+    {
+      "rule": "Langages de programmation",
+      "odd": "Excel",
+      "others": [
+        "Python",
+        "Java",
+        "JavaScript"
+      ]
+    },
+    {
+      "rule": "Langages web",
+      "odd": "Photoshop",
+      "others": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "rule": "Langages orientés objet",
+      "odd": "SQL",
+      "others": [
+        "Java",
+        "C++",
+        "Python"
+      ]
+    },
+    {
+      "rule": "Langages de script",
+      "odd": "R",
+      "others": [
+        "Bash",
+        "Python",
+        "JavaScript"
+      ]
+    },
+    {
+      "rule": "Langages de machine",
+      "odd": "Swift",
+      "others": [
+        "ASM",
+        "Hex",
+        "Binary"
+      ]
+    },
+    {
+      "rule": "Langages de développement mobile",
+      "odd": "Ruby",
+      "others": [
+        "Swift",
+        "Kotlin",
+        "Dart"
+      ]
+    }
+  ],
+  "date": "2026-10-13",
+  "engine": "odd-one-out"
+}
