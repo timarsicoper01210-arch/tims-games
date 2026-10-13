@@ -1,0 +1,89 @@
+{
+  "title": "Le quiz des jeux de société oubliés",
+  "theme": "jeux de société",
+  "hook": "Tu as déjà joué à celui-ci ? 🎲",
+  "questions": [
+    {
+      "q": "Quel jeu consiste à deviner des mots à partir de dessins ?",
+      "choices": [
+        "Pictionary",
+        "Dixit",
+        "Guess Who",
+        "Jeu de l'oie"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Dans quel jeu dois-tu poser des questions pour identifier une personne ?",
+      "choices": [
+        "Guess Who",
+        "Jeu de l'oie",
+        "Mafia",
+        "Pictionary"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel jeu se joue avec des cartes et des figures de personnages ?",
+      "choices": [
+        "Mafia",
+        "Guess Who",
+        "Dixit",
+        "Jeu de l'oie"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel jeu se joue avec des dés et un plateau de course ?",
+      "choices": [
+        "Jeu de l'oie",
+        "Guess Who",
+        "Mafia",
+        "Dixit"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel jeu implique de se déguiser et de jouer des rôles secrets ?",
+      "choices": [
+        "Mafia",
+        "Guess Who",
+        "Dixit",
+        "Jeu de l'oie"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel jeu est basé sur l'interprétation d'images et de symboles ?",
+      "choices": [
+        "Dixit",
+        "Guess Who",
+        "Mafia",
+        "Jeu de l'oie"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel jeu est souvent joué en groupe et nécessite des blagues ?",
+      "choices": [
+        "Guess Who",
+        "Mafia",
+        "Dixit",
+        "Jeu de l'oie"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quel jeu a pour but de deviner une personne à partir de ses traits ?",
+      "choices": [
+        "Guess Who",
+        "Dixit",
+        "Mafia",
+        "Jeu de l'oie"
+      ],
+      "answer": 0
+    }
+  ],
+  "date": "2026-10-13",
+  "engine": "quiz"
+}
