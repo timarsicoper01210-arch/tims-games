@@ -1,0 +1,15 @@
+{
+  "title": "Ordre des couleurs",
+  "theme": "Optique",
+  "hook": "Du plus visible à l'œil nu au plus difficile à repérer : tu les trouves tous ?",
+  "items": [
+    "Rouge",
+    "Vert",
+    "Bleu",
+    "Marron",
+    "Gris",
+    "Noir"
+  ],
+  "date": "2026-10-14",
+  "engine": "ranking"
+}
