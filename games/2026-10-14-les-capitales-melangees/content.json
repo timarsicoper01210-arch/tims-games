@@ -1,0 +1,33 @@
+{
+  "title": "Les capitales mélangées",
+  "theme": "capitales",
+  "hook": "Quelle capitale se cache là ? Réponds avant moi 🌍",
+  "items": [
+    {
+      "word": "PARIS",
+      "hint": "Ville lumière"
+    },
+    {
+      "word": "MADRID",
+      "hint": "Capitale de l'Espagne"
+    },
+    {
+      "word": "LONDRES",
+      "hint": "Big Ben y sonne"
+    },
+    {
+      "word": "BERLIN",
+      "hint": "Son mur est tombé en 1989"
+    },
+    {
+      "word": "ROME",
+      "hint": "Tous les chemins y mènent"
+    },
+    {
+      "word": "LISBONNE",
+      "hint": "Capitale du Portugal"
+    }
+  ],
+  "date": "2026-10-14",
+  "engine": "scramble"
+}
