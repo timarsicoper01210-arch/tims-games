@@ -1,0 +1,89 @@
+{
+  "title": "Devine l’emoji-music",
+  "theme": "chansons virales",
+  "hook": "Tu connais ces chansons ? 🎵",
+  "questions": [
+    {
+      "q": "🎶🔥",
+      "choices": [
+        "Despacito",
+        "As It Was",
+        "Le Temps",
+        "Djadja"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🎤💥",
+      "choices": [
+        "Blinding Lights",
+        "Shape of You",
+        "Djadja",
+        "As It Was"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🎧💘",
+      "choices": [
+        "Le Temps",
+        "As It Was",
+        "Despacito",
+        "Shape of You"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "💃🕺",
+      "choices": [
+        "Djadja",
+        "Blinding Lights",
+        "Le Temps",
+        "Shape of You"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🎵💫",
+      "choices": [
+        "As It Was",
+        "Blinding Lights",
+        "Shape of You",
+        "Le Temps"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🎤💃",
+      "choices": [
+        "Djadja",
+        "Le Temps",
+        "Blinding Lights",
+        "As It Was"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🎧🔥",
+      "choices": [
+        "Blinding Lights",
+        "As It Was",
+        "Djadja",
+        "Le Temps"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "💃🔥",
+      "choices": [
+        "Djadja",
+        "Le Temps",
+        "Blinding Lights",
+        "As It Was"
+      ],
+      "answer": 0
+    }
+  ],
+  "date": "2026-10-15",
+  "engine": "emoji-guess"
+}
