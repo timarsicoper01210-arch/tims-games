@@ -1,0 +1,63 @@
+{
+  "title": "Le dessert qui vient d'ailleurs 🌍",
+  "theme": "Desserts du monde",
+  "hook": "Il y a toujours un dessert qui n'est pas du bon pays… tu le repères ? 🍰",
+  "rounds": [
+    {
+      "rule": "Pâtisseries françaises",
+      "odd": "Cannoli",
+      "others": [
+        "Éclair",
+        "Mille-feuille",
+        "Macaron"
+      ]
+    },
+    {
+      "rule": "Desserts italiens",
+      "odd": "Taiyaki",
+      "others": [
+        "Tiramisu",
+        "Panna cotta",
+        "Cassata"
+      ]
+    },
+    {
+      "rule": "Desserts japonais",
+      "odd": "Knafeh",
+      "others": [
+        "Mochi",
+        "Dorayaki",
+        "Dango"
+      ]
+    },
+    {
+      "rule": "Douceurs du Moyen-Orient",
+      "odd": "Torrijas",
+      "others": [
+        "Baklava",
+        "Halva",
+        "Loukoum"
+      ]
+    },
+    {
+      "rule": "Desserts espagnols",
+      "odd": "Cupcake",
+      "others": [
+        "Churros",
+        "Crema catalana",
+        "Turrón"
+      ]
+    },
+    {
+      "rule": "Desserts américains",
+      "odd": "Religieuse",
+      "others": [
+        "Brownie",
+        "Cheesecake",
+        "Donut"
+      ]
+    }
+  ],
+  "date": "2026-10-15",
+  "engine": "odd-one-out"
+}
