@@ -1,0 +1,89 @@
+{
+  "title": "Pieuvre : la créature la plus folle des océans",
+  "theme": "les pieuvres",
+  "hook": "Le cerveau de cette bête bat le tien… prouve-le 🐙",
+  "questions": [
+    {
+      "q": "Combien de cœurs possède une pieuvre ?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "De quelle couleur est le sang d'une pieuvre ?",
+      "choices": [
+        "Vert",
+        "Rouge",
+        "Jaune",
+        "Bleu"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Combien de bras a une pieuvre ?",
+      "choices": [
+        "8",
+        "6",
+        "10",
+        "12"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel est le seul organe dur du corps d'une pieuvre ?",
+      "choices": [
+        "La coquille",
+        "Le bec",
+        "Le crâne",
+        "Les os"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Avec quelle partie du corps une pieuvre peut-elle « goûter » ce qu'elle touche ?",
+      "choices": [
+        "Ses ventouses",
+        "Son bec",
+        "Ses yeux",
+        "Sa peau"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Qu'est-ce qui permet à une pieuvre de changer de couleur ?",
+      "choices": [
+        "Le mucus",
+        "Les chromatophores",
+        "La mélanine seule",
+        "Les écailles"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Où se trouve la majorité des neurones d'une pieuvre ?",
+      "choices": [
+        "Dans le foie",
+        "Dans le cerveau central",
+        "Dans les bras",
+        "Dans les yeux"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Pourquoi une pieuvre peut-elle se faufiler dans un espace minuscule ?",
+      "choices": [
+        "Elle retient sa respiration",
+        "Elle est transparente",
+        "Elle rétrécit ses yeux",
+        "Elle n'a pas de squelette"
+      ],
+      "answer": 3
+    }
+  ],
+  "date": "2026-10-16",
+  "engine": "quiz"
+}
