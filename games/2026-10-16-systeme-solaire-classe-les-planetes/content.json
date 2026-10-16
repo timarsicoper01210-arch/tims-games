@@ -1,0 +1,15 @@
+{
+  "title": "Système solaire : classe les planètes",
+  "theme": "Système solaire",
+  "hook": "Du plus proche du Soleil au plus loin... tu les places toutes ?",
+  "items": [
+    "Mercure",
+    "Vénus",
+    "Terre",
+    "Mars",
+    "Jupiter",
+    "Saturne"
+  ],
+  "date": "2026-10-16",
+  "engine": "ranking"
+}
