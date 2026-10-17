@@ -1,0 +1,33 @@
+{
+  "title": "Le café de spécialité, tu connais le jargon ?",
+  "theme": "café de spécialité",
+  "hook": "Un mot de barista, personne ne le trouve vite… et toi ? ☕",
+  "items": [
+    {
+      "word": "BARISTA",
+      "hint": "Métier de celui qui prépare ton café au comptoir"
+    },
+    {
+      "word": "ARABICA",
+      "hint": "Variété de grain réputée pour sa douceur aromatique"
+    },
+    {
+      "word": "MOUSSE",
+      "hint": "Couche onctueuse qui couronne un bon cappuccino"
+    },
+    {
+      "word": "GRAIN",
+      "hint": "Forme brute avant la mouture, torréfiée puis moulue"
+    },
+    {
+      "word": "CAFEINE",
+      "hint": "Substance stimulante qui tient éveillé après la tasse"
+    },
+    {
+      "word": "EXPRESSO",
+      "hint": "Petit café serré préparé sous haute pression"
+    }
+  ],
+  "date": "2026-10-17",
+  "engine": "scramble"
+}
