@@ -1,0 +1,89 @@
+{
+  "title": "Devine l’émoji : Théâtre de rue",
+  "theme": "Théâtre de rue",
+  "hook": "Quel artiste en émojis, personne ne le devine... et toi ? 🎭",
+  "questions": [
+    {
+      "q": "🎭🖌️",
+      "choices": [
+        "Peintre",
+        "Musicien",
+        "Sculpteur",
+        "Acteur"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🎤🪢",
+      "choices": [
+        "Conteur",
+        "Chanteur",
+        "Danseur",
+        "Magicien"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🪩🪞",
+      "choices": [
+        "Mime",
+        "Comédien",
+        "Acrobate",
+        "Dresseur"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🪢🎭",
+      "choices": [
+        "Acteur",
+        "Conteur",
+        "Musicien",
+        "Dresseur"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🪭🪩",
+      "choices": [
+        "Comédien",
+        "Mime",
+        "Magicien",
+        "Acrobate"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🎭🪭",
+      "choices": [
+        "Conteur",
+        "Magicien",
+        "Acteur",
+        "Dresseur"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🪡🪩",
+      "choices": [
+        "Comédien",
+        "Mime",
+        "Acrobate",
+        "Conteur"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🎭🪡",
+      "choices": [
+        "Dresseur",
+        "Acteur",
+        "Conteur",
+        "Acrobate"
+      ],
+      "answer": 1
+    }
+  ],
+  "date": "2026-10-18",
+  "engine": "emoji-guess"
+}
