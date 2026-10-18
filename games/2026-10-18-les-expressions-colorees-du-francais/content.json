@@ -1,0 +1,41 @@
+{
+  "title": "Les expressions colorées du français",
+  "theme": "Expressions imagées",
+  "hook": "Tu devines le sens avant la fin ? 👀",
+  "pairs": [
+    {
+      "left": "VOIR ROUGE",
+      "right": "COLÈRE"
+    },
+    {
+      "left": "RIRE JAUNE",
+      "right": "GÊNE"
+    },
+    {
+      "left": "PEUR BLEUE",
+      "right": "TERREUR"
+    },
+    {
+      "left": "BROYER DU NOIR",
+      "right": "DÉPRIME"
+    },
+    {
+      "left": "CARTE BLANCHE",
+      "right": "LIBERTÉ"
+    },
+    {
+      "left": "VIE EN ROSE",
+      "right": "BONHEUR"
+    },
+    {
+      "left": "HUMOUR NOIR",
+      "right": "CYNISME"
+    },
+    {
+      "left": "COL BLEU",
+      "right": "OUVRIER"
+    }
+  ],
+  "date": "2026-10-18",
+  "engine": "relie"
+}

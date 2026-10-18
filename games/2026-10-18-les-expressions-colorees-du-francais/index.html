@@ -1,0 +1,15 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>Les expressions colorées du français — Relie les paires</title>
+<meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="data:,"><meta name="description" content="Relie les paires gratuit du jour : Expressions imagées. Tu devines le sens avant la fin ? 👀">
+<link rel="stylesheet" href="../../_shared/style.css">
+<style>
+.rl-board { display:flex; gap:10px; width:100%; }
+.rl-col { flex:1; display:flex; flex-direction:column; gap:8px; min-width:0; }
+.rl-item { min-height:46px; border:0; border-radius:10px; background:var(--card); color:var(--text); font-size:clamp(.85rem,4vw,1rem); font-weight:600; padding:8px 6px; word-break:break-word; }
+.rl-item.sel { outline:3px solid var(--accent); }
+.rl-item.done { background:var(--ok); color:#fff; opacity:.75; pointer-events:none; }
+.rl-item.wrong { background:#ff6b6b; color:#fff; }
+.rl-item.peek { background:#ffd166; color:#111; }
+</style></head>
+<body><main id="game"></main>
+<script src="../../_shared/runtime-core.js"></script><script src="../../_shared/runtime.js"></script>
+<script src="logic.js"></script><script src="game.js"></script></body></html>
