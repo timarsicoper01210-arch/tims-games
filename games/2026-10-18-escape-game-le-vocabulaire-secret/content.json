@@ -1,0 +1,17 @@
+{
+  "title": "Escape game : le vocabulaire secret",
+  "theme": "escape game",
+  "hook": "Les fans d'escape game trouvent ça les yeux fermés 🔐",
+  "words": [
+    "ENIGME",
+    "CADENAS",
+    "INDICE",
+    "EVASION",
+    "SERRURE",
+    "COFFRE",
+    "LABYRINTHE",
+    "VERROU"
+  ],
+  "date": "2026-10-18",
+  "engine": "word-search"
+}
