@@ -1,0 +1,63 @@
+{
+  "title": "Qui n'a rien à faire dans l'assiette ?",
+  "theme": "Cuisine du monde",
+  "hook": "Trois ingrédients vont ensemble, un seul ment : tu le vois ? 👀",
+  "rounds": [
+    {
+      "rule": "Ingrédients d'une pizza margherita",
+      "odd": "Cannelle",
+      "others": [
+        "Mozzarella",
+        "Basilic",
+        "Tomate"
+      ]
+    },
+    {
+      "rule": "Ingrédients d'un guacamole",
+      "odd": "Nutella",
+      "others": [
+        "Avocat",
+        "Citron vert",
+        "Coriandre"
+      ]
+    },
+    {
+      "rule": "Ingrédients d'un ramen",
+      "odd": "Chantilly",
+      "others": [
+        "Nouilles",
+        "Bouillon",
+        "Algues"
+      ]
+    },
+    {
+      "rule": "Ingrédients d'une raclette",
+      "odd": "Wasabi",
+      "others": [
+        "Fromage",
+        "Pommes de terre",
+        "Charcuterie"
+      ]
+    },
+    {
+      "rule": "Ingrédients d'un couscous",
+      "odd": "Sirop d'érable",
+      "others": [
+        "Semoule",
+        "Pois chiches",
+        "Merguez"
+      ]
+    },
+    {
+      "rule": "Ingrédients d'un tiramisu",
+      "odd": "Moutarde",
+      "others": [
+        "Mascarpone",
+        "Café",
+        "Biscuits"
+      ]
+    }
+  ],
+  "date": "2026-10-19",
+  "engine": "odd-one-out"
+}
