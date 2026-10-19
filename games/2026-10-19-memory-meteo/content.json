@@ -1,0 +1,17 @@
+{
+  "title": "Memory météo",
+  "theme": "météo",
+  "hook": "Perso je rate toujours la dernière paire... et toi ? 🌪️",
+  "pairs": [
+    "☀️",
+    "🌧️",
+    "⛈️",
+    "❄️",
+    "🌈",
+    "🌪️",
+    "🌊",
+    "💨"
+  ],
+  "date": "2026-10-19",
+  "engine": "memory"
+}
