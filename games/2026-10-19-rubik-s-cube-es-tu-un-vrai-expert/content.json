@@ -1,0 +1,89 @@
+{
+  "title": "Rubik's Cube : es-tu un vrai expert ?",
+  "theme": "Rubik's Cube",
+  "hook": "Tu crois tout savoir sur le Rubik's Cube ? Prouve-le en commentaire 🧩",
+  "questions": [
+    {
+      "q": "Qui a inventé le Rubik's Cube ?",
+      "choices": [
+        "Thomas Edison",
+        "Ernő Rubik",
+        "Steve Jobs",
+        "Albert Einstein"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quelle est la nationalité de l'inventeur du Rubik's Cube ?",
+      "choices": [
+        "Allemande",
+        "Suédoise",
+        "Hongroise",
+        "Japonaise"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Dans quelle décennie le Rubik's Cube a-t-il été inventé ?",
+      "choices": [
+        "Années 1950",
+        "Années 1980",
+        "Années 1960",
+        "Années 1970"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Combien de couleurs différentes compte un Rubik's Cube classique ?",
+      "choices": [
+        "6",
+        "4",
+        "8",
+        "5"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Combien de petits carrés colorés y a-t-il sur une seule face ?",
+      "choices": [
+        "12",
+        "6",
+        "16",
+        "9"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Quel était le nom original du jouet avant d'être rebaptisé \"Rubik's Cube\" ?",
+      "choices": [
+        "Le Cube mystère",
+        "Le Cube fou",
+        "Le Cube magique",
+        "Le Cube enchanté"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Combien de petits cubes visibles compose un Rubik's Cube 3x3 ?",
+      "choices": [
+        "26",
+        "20",
+        "24",
+        "27"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Selon une preuve mathématique de 2010, en combien de mouvements maximum tout Rubik's Cube mélangé peut-il être résolu ?",
+      "choices": [
+        "50",
+        "20",
+        "30",
+        "15"
+      ],
+      "answer": 1
+    }
+  ],
+  "date": "2026-10-19",
+  "engine": "quiz"
+}
