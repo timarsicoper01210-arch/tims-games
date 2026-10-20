@@ -1,0 +1,33 @@
+{
+  "title": "Les fruits mélangés",
+  "theme": "fruits",
+  "hook": "Des fruits en pagaille : sauras-tu les remettre en ordre ? 🍓",
+  "items": [
+    {
+      "word": "BANANE",
+      "hint": "Jaune et courbée, riche en potassium"
+    },
+    {
+      "word": "CERISE",
+      "hint": "Petit fruit rouge avec un noyau"
+    },
+    {
+      "word": "FRAISE",
+      "hint": "Rouge, avec de petits grains en surface"
+    },
+    {
+      "word": "ORANGE",
+      "hint": "Agrume rond que l'on presse au petit-déjeuner"
+    },
+    {
+      "word": "MANGUE",
+      "hint": "Fruit tropical à gros noyau plat"
+    },
+    {
+      "word": "ANANAS",
+      "hint": "Fruit tropical coiffé de feuilles piquantes"
+    }
+  ],
+  "date": "2026-10-20",
+  "engine": "scramble"
+}
