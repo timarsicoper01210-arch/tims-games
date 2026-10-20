@@ -1,0 +1,33 @@
+{
+  "title": "Émoticônes de TikTok",
+  "theme": "Émoticônes",
+  "hook": "Quelle émoticône correspond à chaque sentiment ? Tu y arrives ?",
+  "pairs": [
+    {
+      "left": "JOYEUX",
+      "right": "😂"
+    },
+    {
+      "left": "ÉNERVÉ",
+      "right": "😡"
+    },
+    {
+      "left": "TRISTE",
+      "right": "😢"
+    },
+    {
+      "left": "SURPRISE",
+      "right": "😮"
+    },
+    {
+      "left": "INCRÉDULÉ",
+      "right": "😒"
+    },
+    {
+      "left": "AMOUREUX",
+      "right": "😍"
+    }
+  ],
+  "date": "2026-10-20",
+  "engine": "relie"
+}
