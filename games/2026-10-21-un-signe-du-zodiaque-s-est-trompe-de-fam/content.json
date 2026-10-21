@@ -1,0 +1,63 @@
+{
+  "title": "Un signe du zodiaque s'est trompé de famille ✨",
+  "theme": "Signes du zodiaque",
+  "hook": "Un signe s'est trompé de famille : tu le trouves avant la fin ? 🔮",
+  "rounds": [
+    {
+      "rule": "Signes de feu",
+      "odd": "Taureau",
+      "others": [
+        "Bélier",
+        "Lion",
+        "Sagittaire"
+      ]
+    },
+    {
+      "rule": "Signes d'eau",
+      "odd": "Gémeaux",
+      "others": [
+        "Cancer",
+        "Scorpion",
+        "Poissons"
+      ]
+    },
+    {
+      "rule": "Signes d'air",
+      "odd": "Cancer",
+      "others": [
+        "Gémeaux",
+        "Balance",
+        "Verseau"
+      ]
+    },
+    {
+      "rule": "Signes de terre",
+      "odd": "Sagittaire",
+      "others": [
+        "Taureau",
+        "Vierge",
+        "Capricorne"
+      ]
+    },
+    {
+      "rule": "Signes cardinaux",
+      "odd": "Verseau",
+      "others": [
+        "Bélier",
+        "Balance",
+        "Capricorne"
+      ]
+    },
+    {
+      "rule": "Signes fixes",
+      "odd": "Vierge",
+      "others": [
+        "Taureau",
+        "Lion",
+        "Verseau"
+      ]
+    }
+  ],
+  "date": "2026-10-21",
+  "engine": "odd-one-out"
+}
