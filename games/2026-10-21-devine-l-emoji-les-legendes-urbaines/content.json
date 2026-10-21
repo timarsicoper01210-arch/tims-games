@@ -1,0 +1,89 @@
+{
+  "title": "Devine l’émoji : Les légendes urbaines",
+  "theme": "Légendes urbaines",
+  "hook": "Tu crois en ces histoires ? 🕵️‍♂️",
+  "questions": [
+    {
+      "q": "👻🚪",
+      "choices": [
+        "La sorcière du grenier",
+        "Le fantôme du parking",
+        "L’homme en noir",
+        "Le chat du 7e étage"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🕯️🪞",
+      "choices": [
+        "La sorcière du grenier",
+        "Le chat du 7e étage",
+        "La femme du miroir",
+        "L’homme en noir"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🪦🗺️",
+      "choices": [
+        "Le fantôme du parking",
+        "La femme du miroir",
+        "Le chat du 7e étage",
+        "La sorcière du grenier"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🪨👣",
+      "choices": [
+        "Le chat du 7e étage",
+        "La femme du miroir",
+        "Le fantôme du parking",
+        "La sorcière du grenier"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🪞🎭",
+      "choices": [
+        "La sorcière du grenier",
+        "Le chat du 7e étage",
+        "La femme du miroir",
+        "Le fantôme du parking"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🚪🪦",
+      "choices": [
+        "Le fantôme du parking",
+        "La sorcière du grenier",
+        "Le chat du 7e étage",
+        "La femme du miroir"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "👣🪨",
+      "choices": [
+        "Le chat du 7e étage",
+        "La femme du miroir",
+        "Le fantôme du parking",
+        "La sorcière du grenier"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🎭🪞",
+      "choices": [
+        "La femme du miroir",
+        "Le chat du 7e étage",
+        "Le fantôme du parking",
+        "La sorcière du grenier"
+      ],
+      "answer": 0
+    }
+  ],
+  "date": "2026-10-21",
+  "engine": "emoji-guess"
+}
