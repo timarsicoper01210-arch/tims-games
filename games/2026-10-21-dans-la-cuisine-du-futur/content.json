@@ -1,0 +1,17 @@
+{
+  "title": "Dans la cuisine du futur",
+  "theme": "cuisine moléculaire",
+  "hook": "Tu trouves le mot le plus bizarre ? 👀",
+  "words": [
+    "LIQUIDE",
+    "GEL",
+    "POUDRE",
+    "VAPEUR",
+    "GOUTTE",
+    "FLAMME",
+    "CRISE",
+    "BULLE"
+  ],
+  "date": "2026-10-21",
+  "engine": "word-search"
+}
