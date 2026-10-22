@@ -1,0 +1,15 @@
+{
+  "title": "L'évolution de l'iPhone 📱",
+  "theme": "Histoire de l'iPhone",
+  "hook": "Du plus ancien au plus récent : personne n'y arrive, et toi ?",
+  "items": [
+    "iPhone",
+    "iPhone 3G",
+    "iPhone 4",
+    "iPhone 6",
+    "iPhone X",
+    "iPhone 15"
+  ],
+  "date": "2026-10-22",
+  "engine": "ranking"
+}
