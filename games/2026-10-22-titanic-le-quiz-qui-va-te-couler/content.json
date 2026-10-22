@@ -1,0 +1,89 @@
+{
+  "title": "Titanic : le quiz qui va te couler",
+  "theme": "Titanic",
+  "hook": "T'as vu le film mais tu connais vraiment l'histoire ? Prouve-le 🚢",
+  "questions": [
+    {
+      "q": "En quelle année le Titanic a-t-il coulé ?",
+      "choices": [
+        "1931",
+        "1920",
+        "1905",
+        "1912"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Qu'est-ce que le Titanic a percuté ?",
+      "choices": [
+        "Un iceberg",
+        "Un rocher",
+        "Un autre navire",
+        "Un récif corallien"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Dans quel chantier naval le Titanic a-t-il été construit ?",
+      "choices": [
+        "Fincantieri",
+        "Chantiers de l'Atlantique",
+        "Harland & Wolff",
+        "Hyundai Heavy Industries"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Qui a réalisé le film \"Titanic\" sorti en 1997 ?",
+      "choices": [
+        "Steven Spielberg",
+        "James Cameron",
+        "Ridley Scott",
+        "Christopher Nolan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "De quel port le Titanic est-il parti pour son voyage inaugural ?",
+      "choices": [
+        "Liverpool",
+        "Londres",
+        "Douvres",
+        "Southampton"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Quelle était la destination finale du Titanic ?",
+      "choices": [
+        "New York",
+        "Boston",
+        "Montréal",
+        "Miami"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Qui a découvert l'épave du Titanic en 1985 ?",
+      "choices": [
+        "Jacques Cousteau",
+        "Don Walsh",
+        "Robert Ballard",
+        "James Cameron"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Quel est le nom du navire jumeau du Titanic resté en service jusqu'en 1935 ?",
+      "choices": [
+        "Britannic",
+        "Olympic",
+        "Lusitania",
+        "Mauretania"
+      ],
+      "answer": 1
+    }
+  ],
+  "date": "2026-10-22",
+  "engine": "quiz"
+}
