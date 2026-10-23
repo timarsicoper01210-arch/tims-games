@@ -1,0 +1,33 @@
+{
+  "title": "Mots mélangés : bougies parfumées",
+  "theme": "bougies parfumées",
+  "hook": "Tu trouves l'odeur secrète avant moi ? 🕯️",
+  "items": [
+    {
+      "word": "MECHE",
+      "hint": "Le fil qui brûle au centre de la bougie"
+    },
+    {
+      "word": "FLAMME",
+      "hint": "Elle vacille doucement et donne de la lumière"
+    },
+    {
+      "word": "PARFUM",
+      "hint": "Odeur qui se diffuse dans toute la pièce"
+    },
+    {
+      "word": "VANILLE",
+      "hint": "Son odeur douce rappelle la pâtisserie"
+    },
+    {
+      "word": "CANNELLE",
+      "hint": "Épice chaude qui sent Noël"
+    },
+    {
+      "word": "LAVANDE",
+      "hint": "Fleur violette aux vertus apaisantes"
+    }
+  ],
+  "date": "2026-10-23",
+  "engine": "scramble"
+}
