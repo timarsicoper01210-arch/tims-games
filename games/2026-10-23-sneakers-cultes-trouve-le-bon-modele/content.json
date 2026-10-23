@@ -1,0 +1,41 @@
+{
+  "title": "Sneakers cultes : trouve le bon modèle",
+  "theme": "Sneakers cultes",
+  "hook": "Tu retrouves le modèle iconique de chaque marque sans hésiter ?",
+  "pairs": [
+    {
+      "left": "NIKE",
+      "right": "AIR FORCE 1"
+    },
+    {
+      "left": "ADIDAS",
+      "right": "SUPERSTAR"
+    },
+    {
+      "left": "CONVERSE",
+      "right": "CHUCK TAYLOR"
+    },
+    {
+      "left": "VANS",
+      "right": "OLD SKOOL"
+    },
+    {
+      "left": "PUMA",
+      "right": "SUEDE"
+    },
+    {
+      "left": "REEBOK",
+      "right": "CLASSIC"
+    },
+    {
+      "left": "NEW BALANCE",
+      "right": "550"
+    },
+    {
+      "left": "FILA",
+      "right": "DISRUPTOR"
+    }
+  ],
+  "date": "2026-10-23",
+  "engine": "relie"
+}
