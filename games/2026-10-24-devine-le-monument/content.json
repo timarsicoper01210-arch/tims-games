@@ -1,0 +1,89 @@
+{
+  "title": "Devine le monument 🗽",
+  "theme": "monuments du monde",
+  "hook": "Tu trouves le dernier avant moi ? 👀",
+  "questions": [
+    {
+      "q": "🗽🇺🇸",
+      "choices": [
+        "Statue de la Liberté",
+        "Tour Eiffel",
+        "Big Ben",
+        "Taj Mahal"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🇫🇷🗼",
+      "choices": [
+        "Tour de Pise",
+        "Tour Eiffel",
+        "Big Ben",
+        "Colisée"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🇬🇧🕰️",
+      "choices": [
+        "Opéra de Sydney",
+        "Kremlin",
+        "Big Ben",
+        "Stonehenge"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🇪🇬🐫🔺",
+      "choices": [
+        "Grande Muraille",
+        "Pyramides de Gizeh",
+        "Taj Mahal",
+        "Colisée"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🇮🇹🏛️⚔️",
+      "choices": [
+        "Parthénon",
+        "Alhambra",
+        "Tour de Pise",
+        "Colisée de Rome"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🇨🇳🐉🧱",
+      "choices": [
+        "Grande Muraille",
+        "Cité Interdite",
+        "Temple du Ciel",
+        "Terracotta"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🇧🇷⛰️✝️",
+      "choices": [
+        "Plage de Copacabana",
+        "Christ Rédempteur",
+        "Machu Picchu",
+        "Pain de Sucre"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🇦🇺🎭🐚",
+      "choices": [
+        "Statue de la Liberté",
+        "Big Ben",
+        "Opéra de Sydney",
+        "Tour Eiffel"
+      ],
+      "answer": 2
+    }
+  ],
+  "date": "2026-10-24",
+  "engine": "emoji-guess"
+}
