@@ -1,0 +1,63 @@
+{
+  "title": "L'intrus du monde de la glisse extrême",
+  "theme": "Sports de glisse extrême",
+  "hook": "Repère l'intrus avant la fin de la vidéo... t'es sûr de toi ? 👀",
+  "rounds": [
+    {
+      "rule": "Équipement de skateboard",
+      "odd": "Fixations",
+      "others": [
+        "Planche",
+        "Roues",
+        "Roulements"
+      ]
+    },
+    {
+      "rule": "Équipement de snowboard",
+      "odd": "Dérive",
+      "others": [
+        "Planche",
+        "Fixations",
+        "Carres"
+      ]
+    },
+    {
+      "rule": "Équipement de surf",
+      "odd": "Guidon",
+      "others": [
+        "Planche",
+        "Dérive",
+        "Leash"
+      ]
+    },
+    {
+      "rule": "Équipement de BMX",
+      "odd": "Voile",
+      "others": [
+        "Guidon",
+        "Pédales",
+        "Cadre"
+      ]
+    },
+    {
+      "rule": "Figures de skateboard",
+      "odd": "Cutback",
+      "others": [
+        "Kickflip",
+        "Ollie",
+        "Grind"
+      ]
+    },
+    {
+      "rule": "Figures de surf",
+      "odd": "Manual",
+      "others": [
+        "Cutback",
+        "Snap",
+        "Floater"
+      ]
+    }
+  ],
+  "date": "2026-10-24",
+  "engine": "odd-one-out"
+}
