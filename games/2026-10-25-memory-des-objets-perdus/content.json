@@ -1,0 +1,17 @@
+{
+  "title": "Memory des objets perdus",
+  "theme": "objets perdus",
+  "hook": "Tu vois le mien, mais tu trouves le mien ? 👀",
+  "pairs": [
+    "🧳",
+    "🎧",
+    "🕶️",
+    "🧼",
+    "🪖",
+    "👜",
+    "🪪",
+    "🧻"
+  ],
+  "date": "2026-10-25",
+  "engine": "memory"
+}
