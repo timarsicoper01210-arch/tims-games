@@ -1,0 +1,89 @@
+{
+  "title": "Le quiz foot",
+  "theme": "football",
+  "hook": "Fan de foot ? Prouve-le sans te tromper ⚽",
+  "questions": [
+    {
+      "q": "Qui a remporté la Coupe du monde 2022 ?",
+      "choices": [
+        "France",
+        "Brésil",
+        "Argentine",
+        "Croatie"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Combien de joueurs une équipe aligne-t-elle sur le terrain ?",
+      "choices": [
+        "11",
+        "10",
+        "9",
+        "12"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel stade accueille les matchs du PSG ?",
+      "choices": [
+        "Stade Vélodrome",
+        "Parc des Princes",
+        "Groupama Stadium",
+        "Stade de France"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Qui a marqué deux buts en finale de la Coupe du monde 1998 ?",
+      "choices": [
+        "Henry",
+        "Petit",
+        "Deschamps",
+        "Zidane"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Quel club français a gagné la Ligue des champions en 1993 ?",
+      "choices": [
+        "AS Monaco",
+        "Olympique lyonnais",
+        "Olympique de Marseille",
+        "Paris SG"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Combien de minutes dure un match, hors prolongations ?",
+      "choices": [
+        "80",
+        "90",
+        "100",
+        "120"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quel carton exclut un joueur du match ?",
+      "choices": [
+        "Rouge",
+        "Jaune",
+        "Bleu",
+        "Vert"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel pays a remporté la Coupe du monde 2002 ?",
+      "choices": [
+        "Allemagne",
+        "Italie",
+        "Argentine",
+        "Brésil"
+      ],
+      "answer": 3
+    }
+  ],
+  "date": "2026-10-25",
+  "engine": "quiz"
+}
