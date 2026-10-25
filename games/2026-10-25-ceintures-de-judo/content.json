@@ -1,0 +1,15 @@
+{
+  "title": "Ceintures de judo",
+  "theme": "Arts martiaux",
+  "hook": "De la première à la plus haute, tu retrouves l'ordre des ceintures ?",
+  "items": [
+    "Blanche",
+    "Jaune",
+    "Orange",
+    "Verte",
+    "Bleue",
+    "Noire"
+  ],
+  "date": "2026-10-25",
+  "engine": "ranking"
+}
