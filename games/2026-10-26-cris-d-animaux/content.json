@@ -1,0 +1,41 @@
+{
+  "title": "Cris d'animaux",
+  "theme": "Animaux",
+  "hook": "Relie chaque animal à son cri avant la fin du chrono !",
+  "pairs": [
+    {
+      "left": "CHIEN",
+      "right": "ABOIE"
+    },
+    {
+      "left": "CHAT",
+      "right": "MIAULE"
+    },
+    {
+      "left": "VACHE",
+      "right": "MEUGLE"
+    },
+    {
+      "left": "COQ",
+      "right": "COCORICO"
+    },
+    {
+      "left": "COCHON",
+      "right": "GROGNE"
+    },
+    {
+      "left": "CANARD",
+      "right": "CANCANE"
+    },
+    {
+      "left": "GRENOUILLE",
+      "right": "COASSE"
+    },
+    {
+      "left": "MOUTON",
+      "right": "BELE"
+    }
+  ],
+  "date": "2026-10-26",
+  "engine": "relie"
+}
