@@ -1,0 +1,33 @@
+{
+  "title": "Les tendances TikTok",
+  "theme": "tendances TikTok",
+  "hook": "Tu trouves le mot que je cherche avant moi ? 👀",
+  "items": [
+    {
+      "word": "CHALLENGE",
+      "hint": "Défi viral à suivre en musique"
+    },
+    {
+      "word": "DANCE",
+      "hint": "Mouvement rythmé en duo ou solo"
+    },
+    {
+      "word": "FILTER",
+      "hint": "Effet visuel sur les visages"
+    },
+    {
+      "word": "STORY",
+      "hint": "Publication éphémère sur les réseaux"
+    },
+    {
+      "word": "REEL",
+      "hint": "Vidéo courte et fluide"
+    },
+    {
+      "word": "TREND",
+      "hint": "Mode ou idée qui se propage"
+    }
+  ],
+  "date": "2026-10-26",
+  "engine": "scramble"
+}
