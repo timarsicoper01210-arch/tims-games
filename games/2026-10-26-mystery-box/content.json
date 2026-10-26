@@ -1,0 +1,17 @@
+{
+  "title": "Mystery Box",
+  "theme": "Objets mystérieux",
+  "hook": "Quel objet se cache derrière ce nom ? 🎁",
+  "words": [
+    "BOITE",
+    "CADEAU",
+    "MYSTERE",
+    "CACHE",
+    "ENIGME",
+    "COFFRE",
+    "TRESOR",
+    "PUZZLE"
+  ],
+  "date": "2026-10-26",
+  "engine": "word-search"
+}
