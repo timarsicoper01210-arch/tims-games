@@ -1,0 +1,54 @@
+{
+  "title": "Trois Pétards et un Flop",
+  "theme": "Musique Électro",
+  "hook": "Un seul n'appartient pas à la scène électronique… tu le trouves ? 🔥",
+  "rounds": [
+    {
+      "rule": "Artists de la scène électronique",
+      "odd": "Eminem",
+      "others": [
+        "Daft Punk",
+        "Calvin Harris",
+        "David Guetta"
+      ]
+    },
+    {
+      "rule": "Styles de musique électronique",
+      "odd": "Jazz",
+      "others": [
+        "House",
+        "Techno",
+        "Dubstep"
+      ]
+    },
+    {
+      "rule": "Festivals électro mondiaux",
+      "odd": "Festival de Cannes",
+      "others": [
+        "Tomorrowland",
+        "Ultra Music Festival",
+        "Sonar Festival"
+      ]
+    },
+    {
+      "rule": "Équipements de DJ",
+      "odd": "Guitare",
+      "others": [
+        "Table de mixage",
+        "Pédale de distorsion",
+        "Câble XLR"
+      ]
+    },
+    {
+      "rule": "Labels de musique électronique",
+      "odd": "Universal Music",
+      "others": [
+        "Spinnin' Records",
+        "Armada Music",
+        "Never Say Die Records"
+      ]
+    }
+  ],
+  "date": "2026-10-27",
+  "engine": "odd-one-out"
+}
