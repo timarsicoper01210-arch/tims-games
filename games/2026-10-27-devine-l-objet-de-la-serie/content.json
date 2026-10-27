@@ -1,0 +1,89 @@
+{
+  "title": "Devine l'objet de la série",
+  "theme": "objets de la série",
+  "hook": "Tu trouves le plus évident ? 👀",
+  "questions": [
+    {
+      "q": "🪪🎧",
+      "choices": [
+        "Casque de réalité virtuelle",
+        "Portefeuille",
+        "Écouteurs",
+        "Clé USB"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🪂🪄",
+      "choices": [
+        "Lunettes de réalité augmentée",
+        "Chapiteau",
+        "Parapente",
+        "Baguette magique"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🪄🎮",
+      "choices": [
+        "Contrôleur de jeu",
+        "Carte de crédit",
+        "Lunettes de réalité virtuelle",
+        "Boussole"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🪞🪅",
+      "choices": [
+        "Miroir",
+        "Échelle",
+        "Lampe de poche",
+        "Pendule"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🪵🪙",
+      "choices": [
+        "Porte-monnaie",
+        "Table de chevet",
+        "Boîte à bijoux",
+        "Étagère"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🪩🪓",
+      "choices": [
+        "Chaise",
+        "Boule de neige",
+        "Marteau",
+        "Lampe"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🪨🪜",
+      "choices": [
+        "Échelle",
+        "Piolet",
+        "Pierre",
+        "Climb"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🪧🪑",
+      "choices": [
+        "Brosse à dents",
+        "Chaise",
+        "Porte-clés",
+        "Bouilloire"
+      ],
+      "answer": 1
+    }
+  ],
+  "date": "2026-10-27",
+  "engine": "emoji-guess"
+}
