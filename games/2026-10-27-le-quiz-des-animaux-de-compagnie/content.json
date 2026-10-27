@@ -1,0 +1,89 @@
+{
+  "title": "Le quiz des animaux de compagnie",
+  "theme": "Animaux de compagnie",
+  "hook": "Tu penses connaître les animaux de compagnie ? Moi, je doute… 🐾",
+  "questions": [
+    {
+      "q": "Quel animal est le plus souvent adopté en France ?",
+      "choices": [
+        "Chien",
+        "Chat",
+        "Rongeur",
+        "Poisson"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quel est le seul animal de compagnie qui peut légalement porter un collier en France ?",
+      "choices": [
+        "Chien",
+        "Chat",
+        "Oiseau",
+        "Rongeur"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel animal a la particularité de ne jamais fermer un œil ?",
+      "choices": [
+        "Chat",
+        "Chien",
+        "Hamster",
+        "Oiseau"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel animal est le plus répandu comme animal de compagnie dans le monde ?",
+      "choices": [
+        "Chien",
+        "Chat",
+        "Poisson",
+        "Rongeur"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel animal a une langue plus longue que son corps ?",
+      "choices": [
+        "Chien",
+        "Chat",
+        "Langoustine",
+        "Lézard"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Quel animal de compagnie peut vivre jusqu'à 20 ans en moyenne ?",
+      "choices": [
+        "Chat",
+        "Chien",
+        "Poisson",
+        "Rongeur"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel animal a des dents qui repoussent toute sa vie ?",
+      "choices": [
+        "Chat",
+        "Chien",
+        "Rongeur",
+        "Oiseau"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Quel animal est le seul à pouvoir voir en couleur la nuit ?",
+      "choices": [
+        "Chien",
+        "Chat",
+        "Hamster",
+        "Oiseau"
+      ],
+      "answer": 1
+    }
+  ],
+  "date": "2026-10-27",
+  "engine": "quiz"
+}
