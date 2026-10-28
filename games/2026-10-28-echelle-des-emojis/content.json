@@ -1,0 +1,14 @@
+{
+  "title": "Échelle des emojis",
+  "theme": "Émoticônes",
+  "hook": "Du plus triste au plus joyeux : tu t'y retrouves ?",
+  "items": [
+    "Larme",
+    "Mort",
+    "Rire",
+    "Cœur",
+    "Étoile"
+  ],
+  "date": "2026-10-28",
+  "engine": "ranking"
+}
