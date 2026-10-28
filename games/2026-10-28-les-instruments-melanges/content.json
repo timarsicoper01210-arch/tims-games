@@ -1,0 +1,33 @@
+{
+  "title": "Les instruments mélangés",
+  "theme": "instruments",
+  "hook": "Tu reconnais l'instrument avant moi ? 🎶",
+  "items": [
+    {
+      "word": "GUITARE",
+      "hint": "Instrument à cordes que l'on gratte ou pince"
+    },
+    {
+      "word": "PIANO",
+      "hint": "Touches noires et blanches"
+    },
+    {
+      "word": "VIOLON",
+      "hint": "Instrument à cordes joué avec un archet"
+    },
+    {
+      "word": "TROMPETTE",
+      "hint": "Cuivre à trois pistons"
+    },
+    {
+      "word": "FLUTE",
+      "hint": "Instrument à vent en bois ou en métal"
+    },
+    {
+      "word": "BATTERIE",
+      "hint": "Grosse caisse, caisse claire et cymbales"
+    }
+  ],
+  "date": "2026-10-28",
+  "engine": "scramble"
+}
