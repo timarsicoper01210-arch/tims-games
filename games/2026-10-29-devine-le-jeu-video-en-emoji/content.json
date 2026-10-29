@@ -1,0 +1,89 @@
+{
+  "title": "Devine le jeu vidéo en emoji 🎮",
+  "theme": "jeux vidéo cultes",
+  "hook": "Tu reconnais le jeu avant la fin ? 👀",
+  "questions": [
+    {
+      "q": "🍄🟩👷",
+      "choices": [
+        "Sonic",
+        "Rayman",
+        "Super Mario",
+        "Crash Bandicoot"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🟦🟧🟨",
+      "choices": [
+        "Tetris",
+        "Candy Crush",
+        "Bejeweled",
+        "2048"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🟡👻",
+      "choices": [
+        "Snake",
+        "Sonic",
+        "Among Us",
+        "Pac-Man"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🟫⛏️🧱",
+      "choices": [
+        "Terraria",
+        "Minecraft",
+        "Roblox",
+        "Fortnite"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🪂🔫🏝️",
+      "choices": [
+        "Fortnite",
+        "PUBG",
+        "Call of Duty",
+        "Apex Legends"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "👽🔪🚀",
+      "choices": [
+        "Mafia",
+        "Clue",
+        "Among Us",
+        "Werewolf"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "⚡🐭🔴⚪",
+      "choices": [
+        "Digimon",
+        "Pokémon",
+        "Yu-Gi-Oh",
+        "Beyblade"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🗡️🛡️🧝",
+      "choices": [
+        "Final Fantasy",
+        "Dark Souls",
+        "Elden Ring",
+        "Zelda"
+      ],
+      "answer": 3
+    }
+  ],
+  "date": "2026-10-29",
+  "engine": "emoji-guess"
+}
