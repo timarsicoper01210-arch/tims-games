@@ -1,0 +1,17 @@
+{
+  "title": "Strike ou pas strike ? 🎳",
+  "theme": "bowling entre amis",
+  "hook": "Toi aussi tu dis merci à la boule quand elle part bien ? 😅",
+  "words": [
+    "QUILLES",
+    "BOULE",
+    "STRIKE",
+    "SPARE",
+    "PISTE",
+    "GOUTTIERE",
+    "CHAUSSURES",
+    "SCORE"
+  ],
+  "date": "2026-10-29",
+  "engine": "word-search"
+}
