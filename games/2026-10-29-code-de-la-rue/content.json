@@ -1,0 +1,41 @@
+{
+  "title": "Code de la rue",
+  "theme": "Langage des signes urbains",
+  "hook": "Trouve le mot qui correspond au geste de la rue sans te tromper !",
+  "pairs": [
+    {
+      "left": "POING",
+      "right": "STOP"
+    },
+    {
+      "left": "DOIGT",
+      "right": "SILENCE"
+    },
+    {
+      "left": "PIERRE",
+      "right": "BRIQUE"
+    },
+    {
+      "left": "BALAI",
+      "right": "NETTOYER"
+    },
+    {
+      "left": "BRIQUE",
+      "right": "PIERRE"
+    },
+    {
+      "left": "CHAUSSURE",
+      "right": "CHANGER"
+    },
+    {
+      "left": "VERRE",
+      "right": "BOIRE"
+    },
+    {
+      "left": "PORTABLE",
+      "right": "APPRENDRE"
+    }
+  ],
+  "date": "2026-10-29",
+  "engine": "relie"
+}
