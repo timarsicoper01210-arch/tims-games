@@ -1,0 +1,63 @@
+{
+  "title": "Trois notes parfaites et un faux flacon",
+  "theme": "Univers du parfum",
+  "hook": "Toi qui adores les parfums, tu le repères avant la fin ? 👃",
+  "rounds": [
+    {
+      "rule": "Familles olfactives",
+      "odd": "Flacon",
+      "others": [
+        "Florale",
+        "Boisée",
+        "Orientale"
+      ]
+    },
+    {
+      "rule": "Parties de la pyramide olfactive",
+      "odd": "Vaporisateur",
+      "others": [
+        "Note de tête",
+        "Note de cœur",
+        "Note de fond"
+      ]
+    },
+    {
+      "rule": "Types de concentration",
+      "odd": "Nez",
+      "others": [
+        "Eau de toilette",
+        "Eau de parfum",
+        "Extrait de parfum"
+      ]
+    },
+    {
+      "rule": "Zones d'application recommandées",
+      "odd": "Paume des mains",
+      "others": [
+        "Poignets",
+        "Cou",
+        "Intérieur des coudes"
+      ]
+    },
+    {
+      "rule": "Agrumes utilisés en parfumerie",
+      "odd": "Lavande",
+      "others": [
+        "Bergamote",
+        "Citron",
+        "Pamplemousse"
+      ]
+    },
+    {
+      "rule": "Ingrédients animaux en parfumerie",
+      "odd": "Vanille",
+      "others": [
+        "Musc",
+        "Ambre gris",
+        "Civette"
+      ]
+    }
+  ],
+  "date": "2026-10-30",
+  "engine": "odd-one-out"
+}
