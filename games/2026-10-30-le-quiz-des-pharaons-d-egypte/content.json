@@ -1,0 +1,89 @@
+{
+  "title": "Le quiz des pharaons d'Égypte 🏺",
+  "theme": "Égypte ancienne",
+  "hook": "Toutankhamon ou Khéops, tu sais tout ? Prouve-le en commentaire 👀",
+  "questions": [
+    {
+      "q": "Quel pharaon est associé à la plus grande pyramide de Gizeh ?",
+      "choices": [
+        "Khéops",
+        "Toutankhamon",
+        "Ramsès II",
+        "Akhenaton"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sur quel matériau les Égyptiens écrivaient-ils le plus souvent ?",
+      "choices": [
+        "Argile",
+        "Papyrus",
+        "Parchemin",
+        "Soie"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Qui a déchiffré les hiéroglyphes grâce à la pierre de Rosette ?",
+      "choices": [
+        "Howard Carter",
+        "Napoléon Bonaparte",
+        "Giovanni Belzoni",
+        "Jean-François Champollion"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Quel pharaon a une tombe découverte presque intacte en 1922 ?",
+      "choices": [
+        "Toutankhamon",
+        "Ramsès II",
+        "Khéops",
+        "Akhenaton"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Comment appelle-t-on la conservation des corps en Égypte antique ?",
+      "choices": [
+        "La fossilisation",
+        "La momification",
+        "La pétrification",
+        "La calcination"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quel fleuve a permis la naissance de la civilisation égyptienne ?",
+      "choices": [
+        "L'Euphrate",
+        "Le Tigre",
+        "Le Nil",
+        "Le Niger"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Quelle divinité égyptienne a une tête de chacal ?",
+      "choices": [
+        "Horus",
+        "Seth",
+        "Rê",
+        "Anubis"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Quel symbole égyptien représente la vie éternelle ?",
+      "choices": [
+        "Le scarabée",
+        "L'ânkh",
+        "L'œil d'Horus",
+        "Le sphinx"
+      ],
+      "answer": 1
+    }
+  ],
+  "date": "2026-10-30",
+  "engine": "quiz"
+}
