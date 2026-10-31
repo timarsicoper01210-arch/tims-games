@@ -1,0 +1,41 @@
+{
+  "title": "Le pouvoir de chaque super-héros 🦸",
+  "theme": "Pouvoirs de super-héros",
+  "hook": "Tu repères le bon pouvoir avant la fin de la vidéo ? 👀",
+  "pairs": [
+    {
+      "left": "SPIDER-MAN",
+      "right": "TOILE"
+    },
+    {
+      "left": "HULK",
+      "right": "FORCE"
+    },
+    {
+      "left": "FLASH",
+      "right": "VITESSE"
+    },
+    {
+      "left": "WOLVERINE",
+      "right": "GRIFFES"
+    },
+    {
+      "left": "CYCLOPE",
+      "right": "RAYONS"
+    },
+    {
+      "left": "THOR",
+      "right": "MARTEAU"
+    },
+    {
+      "left": "GHOST RIDER",
+      "right": "CHAINE"
+    },
+    {
+      "left": "DAREDEVIL",
+      "right": "OUIE"
+    }
+  ],
+  "date": "2026-10-31",
+  "engine": "relie"
+}
