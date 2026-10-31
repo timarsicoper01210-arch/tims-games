@@ -1,0 +1,33 @@
+{
+  "title": "Pirates du clavier : les mots mélangés 💻",
+  "theme": "hackers et cybersécurité",
+  "hook": "Toi aussi tu crois tout savoir sur le piratage ? Prouve-le en commentaire 😏",
+  "items": [
+    {
+      "word": "PIRATE",
+      "hint": "Il s'introduit dans un système sans y être invité"
+    },
+    {
+      "word": "VIRUS",
+      "hint": "Programme malveillant qui infecte un ordinateur"
+    },
+    {
+      "word": "RESEAU",
+      "hint": "Ensemble d'ordinateurs connectés entre eux"
+    },
+    {
+      "word": "ESPION",
+      "hint": "Personne qui recueille des informations en cachette"
+    },
+    {
+      "word": "LOGICIEL",
+      "hint": "Programme installé pour faire fonctionner un appareil"
+    },
+    {
+      "word": "CRYPTAGE",
+      "hint": "Procédé qui rend un message illisible sans la bonne clé"
+    }
+  ],
+  "date": "2026-10-31",
+  "engine": "scramble"
+}
