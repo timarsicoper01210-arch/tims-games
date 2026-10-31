@@ -1,0 +1,14 @@
+{
+  "title": "Les piments du plus doux au plus fort",
+  "theme": "Piquant des piments",
+  "hook": "Du plus doux au plus fort : tu les classes sans faute ?",
+  "items": [
+    "Poblano",
+    "Jalapeño",
+    "Serrano",
+    "Habanero",
+    "Carolina Reaper"
+  ],
+  "date": "2026-10-31",
+  "engine": "ranking"
+}
