@@ -1,0 +1,89 @@
+{
+  "title": "Devine l’émoji : Les légendes du cinéma",
+  "theme": "films cultes",
+  "hook": "Un film, quelques émojis : tu le devines avant les autres ? 🎬",
+  "questions": [
+    {
+      "q": "🎭🎬",
+      "choices": [
+        "La La Land",
+        "Pulp Fiction",
+        "Titanic",
+        "Star Wars"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🚀🌠",
+      "choices": [
+        "Interstellar",
+        "The Martian",
+        "Gravity",
+        "Inception"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🎩🧙♂️",
+      "choices": [
+        "Harry Potter",
+        "Le Seigneur des Anneaux",
+        "Pirates des Caraïbes",
+        "Indiana Jones"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🧬🧪",
+      "choices": [
+        "Gattaca",
+        "Blade Runner",
+        "Jurassic Park",
+        "Ex Machina"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🪐🌌",
+      "choices": [
+        "Interstellar",
+        "2001: L'odyssée de l'espace",
+        "Arrival",
+        "Dune"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🎭🎭🎭",
+      "choices": [
+        "The Dark Knight",
+        "The Avengers",
+        "The Matrix",
+        "The Godfather"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🕶️🕶️🕶️",
+      "choices": [
+        "The Truman Show",
+        "Fight Club",
+        "The Matrix",
+        "Inception"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🪓🌲",
+      "choices": [
+        "The Revenant",
+        "The Lion King",
+        "The Jungle Book",
+        "The Last Samurai"
+      ],
+      "answer": 0
+    }
+  ],
+  "date": "2026-11-01",
+  "engine": "emoji-guess"
+}
