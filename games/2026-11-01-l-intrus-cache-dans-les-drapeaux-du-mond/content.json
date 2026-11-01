@@ -1,0 +1,63 @@
+{
+  "title": "L'intrus caché dans les drapeaux du monde",
+  "theme": "Drapeaux du monde",
+  "hook": "Dans chaque règle, un drapeau ne va pas avec les autres. Tu le repères vite ? 👀",
+  "rounds": [
+    {
+      "rule": "Drapeaux à une seule étoile",
+      "odd": "Union européenne",
+      "others": [
+        "Vietnam",
+        "Somalie",
+        "Ghana"
+      ]
+    },
+    {
+      "rule": "Drapeaux tricolores verticaux",
+      "odd": "Allemagne",
+      "others": [
+        "France",
+        "Italie",
+        "Irlande"
+      ]
+    },
+    {
+      "rule": "Drapeaux avec un animal",
+      "odd": "Japon",
+      "others": [
+        "Mexique",
+        "Sri Lanka",
+        "Bhoutan"
+      ]
+    },
+    {
+      "rule": "Drapeaux rouge et blanc uniquement",
+      "odd": "Bangladesh",
+      "others": [
+        "Pologne",
+        "Autriche",
+        "Monaco"
+      ]
+    },
+    {
+      "rule": "Drapeaux avec un croissant de lune",
+      "odd": "Chine",
+      "others": [
+        "Turquie",
+        "Algérie",
+        "Pakistan"
+      ]
+    },
+    {
+      "rule": "Drapeaux avec un soleil",
+      "odd": "Palaos",
+      "others": [
+        "Argentine",
+        "Philippines",
+        "Kazakhstan"
+      ]
+    }
+  ],
+  "date": "2026-11-01",
+  "engine": "odd-one-out"
+}
