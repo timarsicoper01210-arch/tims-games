@@ -1,0 +1,17 @@
+{
+  "title": "Abracadabra : le monde de la magie",
+  "theme": "tours de magie",
+  "hook": "Le dernier mot disparaît avant que tu le trouves ? 🎩✨",
+  "words": [
+    "CARTE",
+    "TOUR",
+    "ILLUSION",
+    "MAGICIEN",
+    "BAGUETTE",
+    "TRUC",
+    "LEVITATION",
+    "ESCAMOTAGE"
+  ],
+  "date": "2026-11-01",
+  "engine": "word-search"
+}
