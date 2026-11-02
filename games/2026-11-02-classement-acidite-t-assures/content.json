@@ -1,0 +1,15 @@
+{
+  "title": "Classement acidité : t'assures ? 🧪",
+  "theme": "Acidité des liquides du quotidien",
+  "hook": "Du plus acide au plus basique : tu classes ça sans faute ?",
+  "items": [
+    "Citron",
+    "Coca",
+    "Café",
+    "Lait",
+    "Eau",
+    "Savon"
+  ],
+  "date": "2026-11-02",
+  "engine": "ranking"
+}
