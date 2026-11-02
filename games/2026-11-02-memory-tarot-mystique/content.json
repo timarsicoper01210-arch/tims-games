@@ -1,0 +1,17 @@
+{
+  "title": "Memory tarot mystique 🔮",
+  "theme": "tarot mystique",
+  "hook": "Il y a une carte qui te fait halluciner direct… tu sais laquelle ? 🔮",
+  "pairs": [
+    "🌙",
+    "☀️",
+    "⭐",
+    "😈",
+    "💕",
+    "🗡️",
+    "🏆",
+    "🪙"
+  ],
+  "date": "2026-11-02",
+  "engine": "memory"
+}
