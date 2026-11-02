@@ -1,0 +1,89 @@
+{
+  "title": "Braquages légendaires : le quiz",
+  "theme": "grands casses de l'histoire",
+  "hook": "Toi aussi tu commences à préparer le casse parfait ? 👀",
+  "questions": [
+    {
+      "q": "En 1971, le pirate de l'air D.B. Cooper a sauté d'un avion en plein vol avec quoi ?",
+      "choices": [
+        "Une rançon en billets",
+        "De l'or en barres",
+        "Des bijoux volés",
+        "Des documents secrets"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Le casse du Centre mondial du diamant, en 2003, a eu lieu dans quelle ville ?",
+      "choices": [
+        "Amsterdam",
+        "Anvers",
+        "Genève",
+        "Londres"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "En 1990, des voleurs déguisés en policiers ont dérobé 13 œuvres dans quel musée ?",
+      "choices": [
+        "Le Louvre",
+        "Le MoMA",
+        "Le musée Gardner de Boston",
+        "La National Gallery"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Le « casse du train » de 1963, au Royaume-Uni, a visé quel type de train ?",
+      "choices": [
+        "Un train militaire",
+        "Un train de marchandises",
+        "Un train touristique",
+        "Un train de la Poste royale"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Le casse de la Lufthansa, en 1978, a eu lieu dans quel aéroport ?",
+      "choices": [
+        "Heathrow",
+        "JFK à New York",
+        "Roissy",
+        "Francfort"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Pour percer le coffre de Hatton Garden, en 2015, les voleurs ont utilisé quel outil ?",
+      "choices": [
+        "Un chalumeau",
+        "De la dynamite",
+        "Un laser",
+        "Une perceuse diamant"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Le réseau de voleurs de bijoux « Pink Panthers » doit son nom à un clin d'œil à quoi ?",
+      "choices": [
+        "Une chanson",
+        "Un jeu vidéo",
+        "Un film",
+        "Une marque de bijoux"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Le casse de Brink's-Mat, en 1983 près de Londres, visait quel butin ?",
+      "choices": [
+        "De l'or",
+        "Des bijoux",
+        "Des devises étrangères",
+        "Des œuvres d'art"
+      ],
+      "answer": 0
+    }
+  ],
+  "date": "2026-11-02",
+  "engine": "quiz"
+}
