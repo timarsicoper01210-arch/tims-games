@@ -1,0 +1,33 @@
+{
+  "title": "Mots mélangés : dans la gueule du requin 🦈",
+  "theme": "Les requins",
+  "hook": "Tu trouves le mot le plus coriace avant moi ? 🦈",
+  "items": [
+    {
+      "word": "PREDATEUR",
+      "hint": "Il chasse d'autres animaux pour se nourrir"
+    },
+    {
+      "word": "NAGEOIRE",
+      "hint": "Partie du corps qui permet de se déplacer dans l'eau"
+    },
+    {
+      "word": "MACHOIRE",
+      "hint": "Partie du corps où se trouvent les dents"
+    },
+    {
+      "word": "MORSURE",
+      "hint": "Blessure laissée par les dents"
+    },
+    {
+      "word": "BRANCHIES",
+      "hint": "Organes qui permettent de respirer sous l'eau"
+    },
+    {
+      "word": "CARTILAGE",
+      "hint": "Tissu souple à la place des os chez cet animal marin"
+    }
+  ],
+  "date": "2026-11-03",
+  "engine": "scramble"
+}
