@@ -1,0 +1,41 @@
+{
+  "title": "Chaque métier a son costume",
+  "theme": "Métiers et tenues",
+  "hook": "Tu devines chaque tenue avant moi ? 👀",
+  "pairs": [
+    {
+      "left": "CHEF",
+      "right": "TOQUE"
+    },
+    {
+      "left": "JUGE",
+      "right": "ROBE"
+    },
+    {
+      "left": "POMPIER",
+      "right": "CASQUE"
+    },
+    {
+      "left": "ROI",
+      "right": "COURONNE"
+    },
+    {
+      "left": "COWBOY",
+      "right": "STETSON"
+    },
+    {
+      "left": "MARIÉ",
+      "right": "SMOKING"
+    },
+    {
+      "left": "MÉDECIN",
+      "right": "BLOUSE"
+    },
+    {
+      "left": "BOXEUR",
+      "right": "GANTS"
+    }
+  ],
+  "date": "2026-11-03",
+  "engine": "relie"
+}
