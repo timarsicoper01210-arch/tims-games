@@ -1,0 +1,17 @@
+{
+  "title": "Bienvenue sous le chapiteau du cirque",
+  "theme": "le monde du cirque",
+  "hook": "Perso je bloque sur un mot... et toi ? 🎪",
+  "words": [
+    "TRAPEZE",
+    "JONGLEUR",
+    "ACROBATE",
+    "CHAPITEAU",
+    "CLOWN",
+    "DOMPTEUR",
+    "FUNAMBULE",
+    "MAGICIEN"
+  ],
+  "date": "2026-11-03",
+  "engine": "word-search"
+}
