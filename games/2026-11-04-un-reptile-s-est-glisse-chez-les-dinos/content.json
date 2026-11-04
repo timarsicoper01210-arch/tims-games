@@ -1,0 +1,63 @@
+{
+  "title": "Un reptile s'est glissé chez les dinos",
+  "theme": "Dinosaures et reptiles préhistoriques",
+  "hook": "Le dernier piège, presque personne ne le voit… et toi ? 🦕",
+  "rounds": [
+    {
+      "rule": "Dinosaures carnivores",
+      "odd": "Tricératops",
+      "others": [
+        "Tyrannosaure",
+        "Allosaure",
+        "Vélociraptor"
+      ]
+    },
+    {
+      "rule": "Dinosaures au très long cou",
+      "odd": "Ankylosaure",
+      "others": [
+        "Diplodocus",
+        "Brachiosaure",
+        "Argentinosaure"
+      ]
+    },
+    {
+      "rule": "Reptiles volants disparus",
+      "odd": "Dimétrodon",
+      "others": [
+        "Ptéranodon",
+        "Quetzalcoatlus",
+        "Rhamphorhynchus"
+      ]
+    },
+    {
+      "rule": "Reptiles marins disparus",
+      "odd": "Spinosaure",
+      "others": [
+        "Plésiosaure",
+        "Mosasaure",
+        "Ichtyosaure"
+      ]
+    },
+    {
+      "rule": "Mammifères préhistoriques",
+      "odd": "Deinonychus",
+      "others": [
+        "Mammouth",
+        "Smilodon",
+        "Mégathérium"
+      ]
+    },
+    {
+      "rule": "Vrais dinosaures",
+      "odd": "Ptérodactyle",
+      "others": [
+        "Stégosaure",
+        "Iguanodon",
+        "Parasaurolophus"
+      ]
+    }
+  ],
+  "date": "2026-11-04",
+  "engine": "odd-one-out"
+}
