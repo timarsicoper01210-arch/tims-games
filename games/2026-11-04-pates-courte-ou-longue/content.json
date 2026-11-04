@@ -1,0 +1,43 @@
+{
+  "title": "Pâtes : Courte ou Longue ?",
+  "theme": "Formes de pâtes italiennes",
+  "hook": "Tu gères les pâtes mieux que ta grand-mère ? 🍝",
+  "categoryA": "Courte",
+  "categoryB": "Longue",
+  "items": [
+    {
+      "label": "Spaghetti",
+      "side": "B"
+    },
+    {
+      "label": "Farfalle",
+      "side": "A"
+    },
+    {
+      "label": "Linguine",
+      "side": "B"
+    },
+    {
+      "label": "Macaroni",
+      "side": "A"
+    },
+    {
+      "label": "Tagliatelle",
+      "side": "B"
+    },
+    {
+      "label": "Penne",
+      "side": "A"
+    },
+    {
+      "label": "Vermicelle",
+      "side": "B"
+    },
+    {
+      "label": "Fusilli",
+      "side": "A"
+    }
+  ],
+  "date": "2026-11-04",
+  "engine": "tri"
+}
