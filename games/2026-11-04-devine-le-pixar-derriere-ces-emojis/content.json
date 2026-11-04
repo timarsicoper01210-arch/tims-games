@@ -1,0 +1,89 @@
+{
+  "title": "Devine le Pixar derrière ces émojis",
+  "theme": "films Pixar",
+  "hook": "Tu trouves tout avant la fin de la vidéo ? 👀",
+  "questions": [
+    {
+      "q": "🤠🚀",
+      "choices": [
+        "Toy Story",
+        "Cars",
+        "1001 Pattes",
+        "Les Indestructibles"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🐠🔍🌊",
+      "choices": [
+        "Rebelle",
+        "Le Monde de Nemo",
+        "Soul",
+        "Luca"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "⬆️🎈🏠",
+      "choices": [
+        "WALL-E",
+        "Coco",
+        "Là-haut",
+        "Cars"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🐀👨‍🍳🍲",
+      "choices": [
+        "Vice-Versa",
+        "Monstres & Cie",
+        "Soul",
+        "Ratatouille"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🤖🌍💚",
+      "choices": [
+        "Luca",
+        "WALL-E",
+        "Rebelle",
+        "Les Indestructibles"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "😀😢😡",
+      "choices": [
+        "Vice-Versa",
+        "Monstres & Cie",
+        "Coco",
+        "Cars"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "👹🚪😱",
+      "choices": [
+        "Rebelle",
+        "Soul",
+        "Luca",
+        "Monstres & Cie"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "💀🎸🧡",
+      "choices": [
+        "Vice-Versa",
+        "WALL-E",
+        "Coco",
+        "1001 Pattes"
+      ],
+      "answer": 2
+    }
+  ],
+  "date": "2026-11-04",
+  "engine": "emoji-guess"
+}
