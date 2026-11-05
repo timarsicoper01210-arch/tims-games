@@ -1,0 +1,17 @@
+{
+  "title": "Memory des pierres précieuses",
+  "theme": "pierres précieuses",
+  "hook": "La dernière paire, personne ne la trouve du premier coup… et toi ? 💎",
+  "pairs": [
+    "💎",
+    "💍",
+    "🔮",
+    "👑",
+    "🪨",
+    "⛏️",
+    "✨",
+    "🧿"
+  ],
+  "date": "2026-11-05",
+  "engine": "memory"
+}
