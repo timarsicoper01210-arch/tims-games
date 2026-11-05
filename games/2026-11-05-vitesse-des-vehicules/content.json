@@ -1,0 +1,15 @@
+{
+  "title": "Vitesse des véhicules",
+  "theme": "Vitesse de pointe",
+  "hook": "Du plus lent au plus rapide... tu le fais sans faute ?",
+  "items": [
+    "Trottinette",
+    "Vélo de course",
+    "Scooter 50cc",
+    "Train TGV",
+    "Avion de ligne",
+    "Fusée Ariane"
+  ],
+  "date": "2026-11-05",
+  "engine": "ranking"
+}
