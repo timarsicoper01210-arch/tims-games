@@ -1,0 +1,89 @@
+{
+  "title": "Le quiz des volcans",
+  "theme": "volcans",
+  "hook": "Celui sur la lave, personne ne le trouve… et toi ? 🌋",
+  "questions": [
+    {
+      "q": "Quel volcan a détruit Pompéi en l'an 79 ?",
+      "choices": [
+        "L'Etna",
+        "Le Vésuve",
+        "Le Stromboli",
+        "Le Krakatoa"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Comment appelle-t-on la roche en fusion encore sous terre ?",
+      "choices": [
+        "Le magma",
+        "La lave",
+        "Le basalte",
+        "La pierre ponce"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sur quelle île se trouve le volcan Kilauea ?",
+      "choices": [
+        "La Réunion",
+        "Hawaï",
+        "L'Islande",
+        "La Sicile"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quel est le plus haut volcan d'Europe continentale ?",
+      "choices": [
+        "Le Stromboli",
+        "Le Teide",
+        "L'Etna",
+        "Le Vésuve"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Comment appelle-t-on la grande dépression formée par l'effondrement d'un volcan ?",
+      "choices": [
+        "Une caldeira",
+        "Un cratère",
+        "Un geyser",
+        "Une faille"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel volcan de La Réunion est l'un des plus actifs du monde ?",
+      "choices": [
+        "Le Piton des Neiges",
+        "Le Mont Pelé",
+        "Le Piton de la Fournaise",
+        "Le Cantal"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Que mesure l'échelle VEI ?",
+      "choices": [
+        "La hauteur du volcan",
+        "La chaleur de la lave",
+        "La profondeur du magma",
+        "L'explosivité d'une éruption"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Comment appelle-t-on la ceinture volcanique qui entoure le Pacifique ?",
+      "choices": [
+        "La ceinture de feu",
+        "La dorsale atlantique",
+        "Le grand rift",
+        "La zone de Wadati"
+      ],
+      "answer": 0
+    }
+  ],
+  "date": "2026-11-05",
+  "engine": "quiz"
+}
