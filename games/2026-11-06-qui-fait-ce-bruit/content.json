@@ -1,0 +1,41 @@
+{
+  "title": "Qui fait ce bruit ?",
+  "theme": "Sons du quotidien",
+  "hook": "Celui du briquet, personne ne le devine… et toi ? 🔊",
+  "pairs": [
+    {
+      "left": "BRIQUET",
+      "right": "CLIC"
+    },
+    {
+      "left": "CANETTE",
+      "right": "PSCHIT"
+    },
+    {
+      "left": "MONTRE",
+      "right": "TIC-TAC"
+    },
+    {
+      "left": "BALLON",
+      "right": "POP"
+    },
+    {
+      "left": "CLAVIER",
+      "right": "TAP TAP"
+    },
+    {
+      "left": "PORTE",
+      "right": "GRINCE"
+    },
+    {
+      "left": "MICRO-ONDES",
+      "right": "DING"
+    },
+    {
+      "left": "CEINTURE",
+      "right": "CLAC"
+    }
+  ],
+  "date": "2026-11-06",
+  "engine": "relie"
+}
