@@ -1,0 +1,33 @@
+{
+  "title": "Les mots mélangés du skatepark",
+  "theme": "skatepark",
+  "hook": "Le dernier, personne ne le remet dans l'ordre… et toi ? 🛹",
+  "items": [
+    {
+      "word": "PLANCHE",
+      "hint": "La partie en bois sur laquelle on pose les pieds"
+    },
+    {
+      "word": "RAMPE",
+      "hint": "Structure inclinée pour prendre de la hauteur"
+    },
+    {
+      "word": "CASQUE",
+      "hint": "Protection rigide que l'on met sur la tête"
+    },
+    {
+      "word": "GENOU",
+      "hint": "Articulation que l'on protège avec une coudière jumelle"
+    },
+    {
+      "word": "BITUME",
+      "hint": "Revêtement noir et lisse du sol où l'on roule"
+    },
+    {
+      "word": "EQUILIBRE",
+      "hint": "Ce qu'il faut garder pour ne pas tomber"
+    }
+  ],
+  "date": "2026-11-06",
+  "engine": "scramble"
+}
