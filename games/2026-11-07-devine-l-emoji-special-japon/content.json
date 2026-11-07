@@ -1,0 +1,89 @@
+{
+  "title": "Devine l'émoji : spécial Japon",
+  "theme": "culture japonaise",
+  "hook": "Le troisième, personne ne le trouve du premier coup 🍥",
+  "questions": [
+    {
+      "q": "🍜🥢",
+      "choices": [
+        "Ramen",
+        "Sushi",
+        "Mochi",
+        "Takoyaki"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🗻❄️",
+      "choices": [
+        "Mont Olympe",
+        "Mont Fuji",
+        "Mont Blanc",
+        "Mont Aso"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🐱👋💰",
+      "choices": [
+        "Pikachu",
+        "Totoro",
+        "Maneki-neko",
+        "Kitsune"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🤼🧂",
+      "choices": [
+        "Judo",
+        "Karaté",
+        "Kendo",
+        "Sumo"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🌸🌳",
+      "choices": [
+        "Cerisier en fleurs",
+        "Bambou",
+        "Bonsaï",
+        "Érable rouge"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🚅🇯🇵",
+      "choices": [
+        "Métro de Tokyo",
+        "Shinkansen",
+        "Tramway",
+        "Téléphérique"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🎎👘",
+      "choices": [
+        "Ninja",
+        "Samouraï",
+        "Geisha",
+        "Sumo"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🐙⚽🍢",
+      "choices": [
+        "Onigiri",
+        "Gyoza",
+        "Dorayaki",
+        "Takoyaki"
+      ],
+      "answer": 3
+    }
+  ],
+  "date": "2026-11-07",
+  "engine": "emoji-guess"
+}
