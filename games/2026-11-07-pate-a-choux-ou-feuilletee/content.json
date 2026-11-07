@@ -1,0 +1,51 @@
+{
+  "title": "Pâte à choux ou feuilletée ?",
+  "theme": "Pâtisseries françaises",
+  "hook": "Celui du milieu, personne ne le classe bien… et toi ? 🥐",
+  "categoryA": "Pâte à choux",
+  "categoryB": "Pâte feuilletée",
+  "items": [
+    {
+      "label": "Éclair",
+      "side": "A"
+    },
+    {
+      "label": "Mille-feuille",
+      "side": "B"
+    },
+    {
+      "label": "Chouquette",
+      "side": "A"
+    },
+    {
+      "label": "Palmier",
+      "side": "B"
+    },
+    {
+      "label": "Paris-Brest",
+      "side": "A"
+    },
+    {
+      "label": "Galette des rois",
+      "side": "B"
+    },
+    {
+      "label": "Religieuse",
+      "side": "A"
+    },
+    {
+      "label": "Chausson aux pommes",
+      "side": "B"
+    },
+    {
+      "label": "Profiterole",
+      "side": "A"
+    },
+    {
+      "label": "Vol-au-vent",
+      "side": "B"
+    }
+  ],
+  "date": "2026-11-07",
+  "engine": "tri"
+}
