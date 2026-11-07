@@ -1,0 +1,63 @@
+{
+  "title": "Trois au festival, un qui s'est trompé de scène",
+  "theme": "Festival de musique",
+  "hook": "Le dernier piège, personne ne le voit… et toi ? 🎤",
+  "rounds": [
+    {
+      "rule": "Équipement de camping",
+      "odd": "Bracelet d'entrée",
+      "others": [
+        "Tente",
+        "Sac de couchage",
+        "Matelas gonflable"
+      ]
+    },
+    {
+      "rule": "Matériel de sonorisation",
+      "odd": "Projecteur",
+      "others": [
+        "Micro",
+        "Table de mixage",
+        "Enceinte"
+      ]
+    },
+    {
+      "rule": "Éléments d'une batterie",
+      "odd": "Médiator",
+      "others": [
+        "Caisse claire",
+        "Grosse caisse",
+        "Cymbale"
+      ]
+    },
+    {
+      "rule": "Genres nés en Jamaïque",
+      "odd": "Flamenco",
+      "others": [
+        "Reggae",
+        "Dancehall",
+        "Ska"
+      ]
+    },
+    {
+      "rule": "Groupes de rock britanniques",
+      "odd": "Nirvana",
+      "others": [
+        "Queen",
+        "The Rolling Stones",
+        "Led Zeppelin"
+      ]
+    },
+    {
+      "rule": "Festivals en France",
+      "odd": "Tomorrowland",
+      "others": [
+        "Hellfest",
+        "Vieilles Charrues",
+        "Francofolies"
+      ]
+    }
+  ],
+  "date": "2026-11-07",
+  "engine": "odd-one-out"
+}
