@@ -1,0 +1,17 @@
+{
+  "title": "Memory piscine municipale",
+  "theme": "piscine municipale",
+  "hook": "Personne ne retient la dernière paire… et toi ? 🏊",
+  "pairs": [
+    "🏊",
+    "🥽",
+    "🩴",
+    "🛟",
+    "🤿",
+    "🩱",
+    "🚿",
+    "🪜"
+  ],
+  "date": "2026-11-08",
+  "engine": "memory"
+}
