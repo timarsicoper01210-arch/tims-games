@@ -1,0 +1,43 @@
+{
+  "title": "Café, Red Bull, Monster : qui tape le plus ?",
+  "theme": "caféine des boissons du quotidien",
+  "hook": "Tu penses vraiment que l'expresso tape plus fort que le café filtre ? ☕",
+  "question": "Lequel contient le plus de caféine ?",
+  "unit": "mg",
+  "items": [
+    {
+      "label": "Monster (47 cl)",
+      "value": 160
+    },
+    {
+      "label": "Café filtre (25 cl)",
+      "value": 95
+    },
+    {
+      "label": "Red Bull (25 cl)",
+      "value": 80
+    },
+    {
+      "label": "Expresso (3 cl)",
+      "value": 63
+    },
+    {
+      "label": "Thé noir (25 cl)",
+      "value": 47
+    },
+    {
+      "label": "Coca-Cola (33 cl)",
+      "value": 34
+    },
+    {
+      "label": "Thé vert (25 cl)",
+      "value": 28
+    },
+    {
+      "label": "Chocolat chaud (25 cl)",
+      "value": 9
+    }
+  ],
+  "date": "2026-11-08",
+  "engine": "duel"
+}
