@@ -1,0 +1,89 @@
+{
+  "title": "Le quiz des marchés de Noël",
+  "theme": "Marchés de Noël",
+  "hook": "Tu bloques forcément sur l'avant-dernière… ou pas ? 🎄",
+  "questions": [
+    {
+      "q": "Dans quelle ville française se tient le marché de Noël créé en 1570, l'un des plus anciens d'Europe ?",
+      "choices": [
+        "Lille",
+        "Strasbourg",
+        "Lyon",
+        "Nantes"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quelle boisson chaude épicée est la star des marchés de Noël allemands ?",
+      "choices": [
+        "Glühwein",
+        "Kir royal",
+        "Limoncello",
+        "Sangria"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Comment s'appelle le marché de Noël en allemand ?",
+      "choices": [
+        "Biergarten",
+        "Weihnachtsmarkt",
+        "Oktoberfest",
+        "Karneval"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quel pain d'épices alsacien en forme de personnage se vend sur les stands ?",
+      "choices": [
+        "Bretzel",
+        "Kougelhopf",
+        "Bredele",
+        "Mannele"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Dans quel pays se trouve le marché de Noël de la Grand-Place de Bruxelles ?",
+      "choices": [
+        "Pays-Bas",
+        "Belgique",
+        "Luxembourg",
+        "Suisse"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quelle friandise en spirale cuite sur une broche vient de Hongrie ?",
+      "choices": [
+        "Kürtőskalács",
+        "Churros",
+        "Beignet",
+        "Gaufre de Liège"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel fromage fondu racle-t-on sur les pommes de terre dans les chalets ?",
+      "choices": [
+        "Comté",
+        "Raclette",
+        "Roquefort",
+        "Mozzarella"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quel gâteau de Noël allemand aux fruits confits est saupoudré de sucre glace ?",
+      "choices": [
+        "Panettone",
+        "Bûche",
+        "Stollen",
+        "Pavlova"
+      ],
+      "answer": 2
+    }
+  ],
+  "date": "2026-11-08",
+  "engine": "quiz"
+}
