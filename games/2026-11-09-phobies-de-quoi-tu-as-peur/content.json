@@ -1,0 +1,41 @@
+{
+  "title": "Phobies : de quoi tu as peur ?",
+  "theme": "Phobies",
+  "hook": "Il y en a une que presque personne ne devine… toi, tu la trouves ? 👀",
+  "pairs": [
+    {
+      "left": "ARACHNOPHOBIE",
+      "right": "ARAIGNÉES"
+    },
+    {
+      "left": "ACROPHOBIE",
+      "right": "HAUTEUR"
+    },
+    {
+      "left": "AGORAPHOBIE",
+      "right": "FOULE"
+    },
+    {
+      "left": "HYDROPHOBIE",
+      "right": "EAU"
+    },
+    {
+      "left": "PYROPHOBIE",
+      "right": "FEU"
+    },
+    {
+      "left": "NYCTOPHOBIE",
+      "right": "NUIT"
+    },
+    {
+      "left": "OPHIDIOPHOBIE",
+      "right": "SERPENTS"
+    },
+    {
+      "left": "CLAUSTROPHOBIE",
+      "right": "ESPACE CLOS"
+    }
+  ],
+  "date": "2026-11-09",
+  "engine": "relie"
+}
