@@ -1,0 +1,15 @@
+{
+  "title": "Du berceau au dodo",
+  "theme": "Sommeil des animaux",
+  "hook": "Du plus petit dormeur au plus gros... tu le fais sans faute ?",
+  "items": [
+    "Girafe",
+    "Éléphant",
+    "Humain",
+    "Chat",
+    "Chauve-souris",
+    "Koala"
+  ],
+  "date": "2026-11-09",
+  "engine": "ranking"
+}
