@@ -1,0 +1,33 @@
+{
+  "title": "Les mots mélangés du skatepark... non, de la nuit blanche",
+  "theme": "nuit blanche",
+  "hook": "Personne ne trouve le dernier... et toi ? 🌙",
+  "items": [
+    {
+      "word": "PYJAMA",
+      "hint": "Vêtement confortable qu'on porte pour dormir"
+    },
+    {
+      "word": "OREILLER",
+      "hint": "Coussin sous la tête au lit"
+    },
+    {
+      "word": "REVEIL",
+      "hint": "Appareil qui sonne le matin pour te lever"
+    },
+    {
+      "word": "COUETTE",
+      "hint": "Grosse couverture épaisse et moelleuse"
+    },
+    {
+      "word": "RONFLER",
+      "hint": "Faire du bruit avec sa gorge en dormant"
+    },
+    {
+      "word": "CAUCHEMAR",
+      "hint": "Mauvais rêve qui fait peur la nuit"
+    }
+  ],
+  "date": "2026-11-09",
+  "engine": "scramble"
+}
