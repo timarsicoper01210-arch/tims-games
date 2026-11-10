@@ -1,0 +1,17 @@
+{
+  "title": "Enfermés dans l'escape game",
+  "theme": "escape game",
+  "hook": "Il y en a un que personne ne repère du premier coup… et toi ? 👀",
+  "words": [
+    "ENIGME",
+    "CADENAS",
+    "INDICE",
+    "COFFRE",
+    "SERRURE",
+    "CHRONO",
+    "FOUILLE",
+    "EQUIPE"
+  ],
+  "date": "2026-11-10",
+  "engine": "word-search"
+}
