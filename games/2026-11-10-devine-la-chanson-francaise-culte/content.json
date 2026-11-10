@@ -1,0 +1,89 @@
+{
+  "title": "Devine la chanson française culte",
+  "theme": "chansons françaises cultes",
+  "hook": "Celui avec l'aigle, personne ne le trouve du premier coup… et toi ? 👀",
+  "questions": [
+    {
+      "q": "🌹💗",
+      "choices": [
+        "Mon cœur en fleurs",
+        "La vie en rose",
+        "Rose des sables",
+        "Belle"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "✈️✈️",
+      "choices": [
+        "Partir un jour",
+        "Voyage voyage",
+        "Les avions en papier",
+        "Mille et une nuits"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🦅🖤",
+      "choices": [
+        "Le corbeau",
+        "Plume de nuit",
+        "Les ailes brisées",
+        "L'aigle noir"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🏞️☘️",
+      "choices": [
+        "Les lacs du Connemara",
+        "La vallée verte",
+        "Terre d'Irlande",
+        "Les champs de trèfle"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🌬️🍬",
+      "choices": [
+        "Bonbon bleu",
+        "Sucre d'orge",
+        "Mistral gagnant",
+        "Le vent nous portera"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "💃🎶",
+      "choices": [
+        "Danse avec moi",
+        "Dernière danse",
+        "Nuit de folie",
+        "Alors on danse"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🎹🧍",
+      "choices": [
+        "Il jouait du piano debout",
+        "Le pianiste du dimanche",
+        "Debout sur le piano",
+        "La groupie du pianiste"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🦁🌙",
+      "choices": [
+        "Le roi de la savane",
+        "La nuit du fauve",
+        "Le lion est mort ce soir",
+        "Rugissement"
+      ],
+      "answer": 2
+    }
+  ],
+  "date": "2026-11-10",
+  "engine": "emoji-guess"
+}
