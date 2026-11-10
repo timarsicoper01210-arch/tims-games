@@ -1,0 +1,17 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>Fruit ou Légume ? — Tri Éclair</title>
+<meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="data:,"><meta name="description" content="Tri Éclair gratuit du jour : Fruits et légumes. Trie-les avant la fin, tu es vraiment sûr de toi ? 😏">
+<link rel="stylesheet" href="../../_shared/style.css">
+<style>
+.tr-wrap { display:flex; flex-direction:column; align-items:center; gap:16px; width:100%; }
+.tr-progress { font-weight:700; color:var(--text); }
+.tr-card { width:100%; max-width:320px; min-height:120px; display:flex; align-items:center; justify-content:center; text-align:center; background:var(--card); border-radius:16px; padding:16px; font-size:clamp(1.1rem,6vw,1.6rem); font-weight:700; transition:transform .2s; }
+.tr-card.correct { outline:3px solid var(--ok); }
+.tr-card.wrong { animation: tr-shake .3s; }
+@keyframes tr-shake { 0%,100%{transform:translateX(0);} 25%{transform:translateX(-8px);} 75%{transform:translateX(8px);} }
+.tr-buttons { display:flex; gap:12px; width:100%; max-width:320px; }
+.tr-btn { flex:1; border:0; border-radius:12px; padding:16px 8px; font-size:clamp(.9rem,5vw,1.1rem); font-weight:700; background:var(--accent); color:#fff; cursor:pointer; }
+.tr-btn.flash { outline:3px solid #ffd166; }
+</style></head>
+<body><main id="game"></main>
+<script src="../../_shared/runtime-core.js"></script><script src="../../_shared/runtime.js"></script>
+<script src="logic.js"></script><script src="game.js"></script></body></html>

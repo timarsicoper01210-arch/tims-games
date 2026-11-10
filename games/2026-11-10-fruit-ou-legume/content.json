@@ -1,0 +1,43 @@
+{
+  "title": "Fruit ou Légume ?",
+  "theme": "Fruits et légumes",
+  "hook": "Trie-les avant la fin, tu es vraiment sûr de toi ? 😏",
+  "categoryA": "Fruit",
+  "categoryB": "Légume",
+  "items": [
+    {
+      "label": "Banane",
+      "side": "A"
+    },
+    {
+      "label": "Pomme",
+      "side": "A"
+    },
+    {
+      "label": "Carotte",
+      "side": "B"
+    },
+    {
+      "label": "Brocoli",
+      "side": "B"
+    },
+    {
+      "label": "Fraise",
+      "side": "A"
+    },
+    {
+      "label": "Poireau",
+      "side": "B"
+    },
+    {
+      "label": "Ananas",
+      "side": "A"
+    },
+    {
+      "label": "Radis",
+      "side": "B"
+    }
+  ],
+  "date": "2026-11-10",
+  "engine": "tri"
+}
