@@ -1,0 +1,35 @@
+{
+  "title": "Qui pique le plus fort ?",
+  "theme": "Dards et piqûres d'insectes",
+  "hook": "Le dernier surprend tout le monde, à ton avis c'est lequel ? 🐝",
+  "question": "Quel dard mesure le plus long ?",
+  "unit": "mm",
+  "items": [
+    {
+      "label": "Frelon asiatique",
+      "value": 5
+    },
+    {
+      "label": "Frelon européen",
+      "value": 4
+    },
+    {
+      "label": "Guêpe commune",
+      "value": 3
+    },
+    {
+      "label": "Abeille domestique",
+      "value": 2
+    },
+    {
+      "label": "Fourmi rouge",
+      "value": 1
+    },
+    {
+      "label": "Moustique (trompe)",
+      "value": 2
+    }
+  ],
+  "date": "2026-11-11",
+  "engine": "duel"
+}
