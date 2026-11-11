@@ -1,0 +1,63 @@
+{
+  "title": "Un intrus a passé la douane",
+  "theme": "Aéroport et voyage en avion",
+  "hook": "Le dernier piège, personne ne le voit du premier coup… et toi ? ✈️",
+  "rounds": [
+    {
+      "rule": "Compagnies aériennes",
+      "odd": "Eurostar",
+      "others": [
+        "Air France",
+        "Lufthansa",
+        "Emirates"
+      ]
+    },
+    {
+      "rule": "Parties d'un avion",
+      "odd": "Rétroviseur",
+      "others": [
+        "Aile",
+        "Cockpit",
+        "Hublot"
+      ]
+    },
+    {
+      "rule": "Documents de voyage",
+      "odd": "Carte Vitale",
+      "others": [
+        "Passeport",
+        "Billet",
+        "Carte d'embarquement"
+      ]
+    },
+    {
+      "rule": "Bagages",
+      "odd": "Tapis à bagages",
+      "others": [
+        "Valise",
+        "Sac à dos",
+        "Sac de voyage"
+      ]
+    },
+    {
+      "rule": "Grands aéroports",
+      "odd": "Gare du Nord",
+      "others": [
+        "Heathrow",
+        "Roissy",
+        "Narita"
+      ]
+    },
+    {
+      "rule": "Classes à bord d'un avion",
+      "odd": "Couchette",
+      "others": [
+        "Économique",
+        "Affaires",
+        "Première"
+      ]
+    }
+  ],
+  "date": "2026-11-11",
+  "engine": "odd-one-out"
+}
