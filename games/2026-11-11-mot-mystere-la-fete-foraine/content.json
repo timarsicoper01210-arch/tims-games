@@ -1,0 +1,29 @@
+{
+  "title": "Mot mystère : la fête foraine",
+  "theme": "Fête foraine",
+  "hook": "Celui du tunnel à cris, personne ne le trouve du premier coup… et toi ? 🎡",
+  "words": [
+    {
+      "word": "TIR",
+      "hint": "Stand où l'on vise des cibles pour gagner une peluche"
+    },
+    {
+      "word": "MANEGE",
+      "hint": "Il tourne en musique avec ses chevaux de bois"
+    },
+    {
+      "word": "LOTERIE",
+      "hint": "Jeu de hasard où un numéro gagnant est annoncé au micro"
+    },
+    {
+      "word": "BARBEAPAPA",
+      "hint": "Nuage de sucre rose enroulé autour d'un bâton"
+    },
+    {
+      "word": "TRAINFANTOME",
+      "hint": "Wagon qui file dans un tunnel de squelettes et de cris"
+    }
+  ],
+  "date": "2026-11-11",
+  "engine": "mot-mystere"
+}
