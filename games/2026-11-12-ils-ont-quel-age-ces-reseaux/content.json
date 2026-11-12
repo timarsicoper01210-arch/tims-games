@@ -1,0 +1,15 @@
+{
+  "title": "Ils ont quel âge, ces réseaux ?",
+  "theme": "Réseaux sociaux",
+  "hook": "Du plus vieux au plus récent : tu le fais sans faute ? 👀",
+  "items": [
+    "Facebook",
+    "YouTube",
+    "Twitter",
+    "Instagram",
+    "Snapchat",
+    "TikTok"
+  ],
+  "date": "2026-11-12",
+  "engine": "ranking"
+}
