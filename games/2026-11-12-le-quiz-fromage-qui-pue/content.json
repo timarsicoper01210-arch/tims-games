@@ -1,0 +1,89 @@
+{
+  "title": "Le quiz fromage qui pue",
+  "theme": "fromages d'ici et d'ailleurs",
+  "hook": "Le dernier piège fait tomber tout le monde… et toi ? 🧀",
+  "questions": [
+    {
+      "q": "Quel fromage bleu est affiné dans les caves de Roquefort-sur-Soulzon ?",
+      "choices": [
+        "Roquefort",
+        "Gorgonzola",
+        "Fourme d'Ambert",
+        "Bleu de Bresse"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel fromage à pâte molle vient de Normandie ?",
+      "choices": [
+        "Comté",
+        "Beaufort",
+        "Camembert",
+        "Cantal"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "De quel lait est fabriqué le roquefort ?",
+      "choices": [
+        "Lait de vache",
+        "Lait de brebis",
+        "Lait de chèvre",
+        "Lait de bufflonne"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quel fromage italien entre dans la recette du tiramisu ?",
+      "choices": [
+        "Ricotta",
+        "Burrata",
+        "Provolone",
+        "Mascarpone"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Quel fromage est reconnaissable à sa ligne noire au milieu ?",
+      "choices": [
+        "Saint-Nectaire",
+        "Laguiole",
+        "Morbier",
+        "Mimolette"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Quel fromage grec est la base de la salade grecque ?",
+      "choices": [
+        "Feta",
+        "Halloumi",
+        "Mozzarella",
+        "Pecorino"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel fromage est célèbre pour ses gros trous appelés « yeux » ?",
+      "choices": [
+        "Comté",
+        "Reblochon",
+        "Tomme de Savoie",
+        "Emmental"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Quel fromage italien à pâte dure se râpe sur les pâtes ?",
+      "choices": [
+        "Taleggio",
+        "Parmesan",
+        "Scamorza",
+        "Fontina"
+      ],
+      "answer": 1
+    }
+  ],
+  "date": "2026-11-12",
+  "engine": "quiz"
+}
