@@ -1,0 +1,17 @@
+{
+  "title": "Memory des outils du bricoleur",
+  "theme": "outils de bricolage",
+  "hook": "Tu retiens où est la clé à molette du premier coup ? 🔧",
+  "pairs": [
+    "🔧",
+    "🔨",
+    "🪛",
+    "🪚",
+    "🔩",
+    "📏",
+    "🧰",
+    "🪜"
+  ],
+  "date": "2026-11-12",
+  "engine": "memory"
+}
