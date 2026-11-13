@@ -1,0 +1,41 @@
+{
+  "title": "Chaque chien a son boulot",
+  "theme": "Races de chiens au travail",
+  "hook": "Celui du milieu piège tout le monde… et toi ? 👀",
+  "pairs": [
+    {
+      "left": "BERGER",
+      "right": "TROUPEAU"
+    },
+    {
+      "left": "TERRE-NEUVE",
+      "right": "SAUVETAGE"
+    },
+    {
+      "left": "BEAGLE",
+      "right": "FLAIR"
+    },
+    {
+      "left": "HUSKY",
+      "right": "TRAINEAU"
+    },
+    {
+      "left": "SAINT-BERNARD",
+      "right": "MONTAGNE"
+    },
+    {
+      "left": "TECKEL",
+      "right": "TERRIER"
+    },
+    {
+      "left": "LABRADOR",
+      "right": "GUIDE"
+    },
+    {
+      "left": "GREYHOUND",
+      "right": "COURSE"
+    }
+  ],
+  "date": "2026-11-13",
+  "engine": "relie"
+}
