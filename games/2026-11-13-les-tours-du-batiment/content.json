@@ -1,0 +1,17 @@
+{
+  "title": "Les tours du bâtiment",
+  "theme": "chantier et grue",
+  "hook": "Y en a un que personne ne voit du premier coup 👀",
+  "words": [
+    "GRUE",
+    "BETON",
+    "TRUELLE",
+    "CIMENT",
+    "BRIQUE",
+    "ECHAFAUD",
+    "CASQUE",
+    "NIVEAU"
+  ],
+  "date": "2026-11-13",
+  "engine": "word-search"
+}
