@@ -1,0 +1,33 @@
+{
+  "title": "La pizza en désordre",
+  "theme": "Pizza et pizzeria",
+  "hook": "Le dernier, personne ne le trouve du premier coup… et toi ? 👀",
+  "items": [
+    {
+      "word": "PIZZAIOLO",
+      "hint": "Celui qui enfourne les pizzas toute la soirée"
+    },
+    {
+      "word": "CALZONE",
+      "hint": "Pizza pliée en deux et refermée comme un chausson"
+    },
+    {
+      "word": "ORIGAN",
+      "hint": "Herbe séchée au parfum italien, saupoudrée dessus"
+    },
+    {
+      "word": "LEVURE",
+      "hint": "Elle fait gonfler la pâte pendant le repos"
+    },
+    {
+      "word": "CROUTE",
+      "hint": "Le bord doré qu'on garde souvent pour la fin"
+    },
+    {
+      "word": "TOMATE",
+      "hint": "Fruit rouge qui devient la sauce de base"
+    }
+  ],
+  "date": "2026-11-13",
+  "engine": "scramble"
+}
