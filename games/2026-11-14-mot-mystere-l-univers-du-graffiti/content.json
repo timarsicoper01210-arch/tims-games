@@ -1,0 +1,33 @@
+{
+  "title": "Mot mystère : l'univers du graffiti",
+  "theme": "graffiti et street art",
+  "hook": "Celui en 4 lettres fait planter tout le monde 👀 Et toi ?",
+  "words": [
+    {
+      "word": "BOMBE",
+      "hint": "Aérosol de peinture qu'on secoue avant de pulvériser"
+    },
+    {
+      "word": "POCHOIR",
+      "hint": "Carton découpé pour reproduire un motif à l'identique"
+    },
+    {
+      "word": "TAG",
+      "hint": "Signature rapide d'un artiste, tracée en quelques secondes"
+    },
+    {
+      "word": "MUR",
+      "hint": "Surface verticale qui sert de toile aux artistes de rue"
+    },
+    {
+      "word": "FRESQUE",
+      "hint": "Grande oeuvre peinte qui couvre toute une façade"
+    },
+    {
+      "word": "CAPUCHE",
+      "hint": "Partie du sweat rabattue sur la tête pour rester discret"
+    }
+  ],
+  "date": "2026-11-14",
+  "engine": "mot-mystere"
+}
