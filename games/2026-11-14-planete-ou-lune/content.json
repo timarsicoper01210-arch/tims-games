@@ -1,0 +1,43 @@
+{
+  "title": "Planète ou Lune ?",
+  "theme": "Système solaire",
+  "hook": "Il y en a une où tout le monde se trompe, et toi ? 👀",
+  "categoryA": "Planète",
+  "categoryB": "Lune",
+  "items": [
+    {
+      "label": "Mars",
+      "side": "A"
+    },
+    {
+      "label": "Titan",
+      "side": "B"
+    },
+    {
+      "label": "Vénus",
+      "side": "A"
+    },
+    {
+      "label": "Europe",
+      "side": "B"
+    },
+    {
+      "label": "Neptune",
+      "side": "A"
+    },
+    {
+      "label": "Ganymède",
+      "side": "B"
+    },
+    {
+      "label": "Jupiter",
+      "side": "A"
+    },
+    {
+      "label": "Phobos",
+      "side": "B"
+    }
+  ],
+  "date": "2026-11-14",
+  "engine": "tri"
+}
