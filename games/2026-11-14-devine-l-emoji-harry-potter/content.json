@@ -1,0 +1,89 @@
+{
+  "title": "Devine l'émoji : Harry Potter",
+  "theme": "univers des sorciers",
+  "hook": "Il y en a un où tout le monde se plante 👀",
+  "questions": [
+    {
+      "q": "⚡🤓",
+      "choices": [
+        "Hagrid",
+        "Rogue",
+        "Harry Potter",
+        "Dobby"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🦉✉️",
+      "choices": [
+        "Hedwige",
+        "Croûtard",
+        "Pattenrond",
+        "Buck"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🧹🏐",
+      "choices": [
+        "Échecs sorciers",
+        "Quidditch",
+        "Bavboules",
+        "Duel"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🚂🔴🔟",
+      "choices": [
+        "Chemin de Traverse",
+        "Gringotts",
+        "Pré-au-Lard",
+        "Voie 9¾"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🐍🗣️",
+      "choices": [
+        "Fourchelang",
+        "Sortilège d'Attraction",
+        "Latin",
+        "Gobelbabil"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🎩🧠",
+      "choices": [
+        "Miroir du Riséd",
+        "Choixpeau magique",
+        "Pensine",
+        "Vif d'or"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🚗🌳",
+      "choices": [
+        "Balai volant",
+        "Portoloin",
+        "Ford Anglia",
+        "Magicobus"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🪞💭",
+      "choices": [
+        "Carte du Maraudeur",
+        "Retourneur de Temps",
+        "Pensine",
+        "Miroir du Riséd"
+      ],
+      "answer": 3
+    }
+  ],
+  "date": "2026-11-14",
+  "engine": "emoji-guess"
+}
