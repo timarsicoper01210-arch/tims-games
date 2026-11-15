@@ -1,0 +1,63 @@
+{
+  "title": "Un seul n'a pas sa place à la salle",
+  "theme": "Salle de sport",
+  "hook": "Le dernier piège, personne ne le voit… et toi ? 💪",
+  "rounds": [
+    {
+      "rule": "Machines de cardio",
+      "odd": "Barre olympique",
+      "others": [
+        "Tapis de course",
+        "Rameur",
+        "Vélo elliptique"
+      ]
+    },
+    {
+      "rule": "Muscles du haut du corps",
+      "odd": "Quadriceps",
+      "others": [
+        "Biceps",
+        "Pectoraux",
+        "Trapèzes"
+      ]
+    },
+    {
+      "rule": "Exercices au poids du corps",
+      "odd": "Soulevé de terre",
+      "others": [
+        "Pompes",
+        "Tractions",
+        "Gainage"
+      ]
+    },
+    {
+      "rule": "Compléments alimentaires",
+      "odd": "Shaker",
+      "others": [
+        "Whey",
+        "Créatine",
+        "BCAA"
+      ]
+    },
+    {
+      "rule": "Exercices pour les jambes",
+      "odd": "Développé couché",
+      "others": [
+        "Squat",
+        "Fentes",
+        "Presse à cuisses"
+      ]
+    },
+    {
+      "rule": "Muscles du dos",
+      "odd": "Deltoïde",
+      "others": [
+        "Grand dorsal",
+        "Rhomboïdes",
+        "Grand rond"
+      ]
+    }
+  ],
+  "date": "2026-11-15",
+  "engine": "odd-one-out"
+}
