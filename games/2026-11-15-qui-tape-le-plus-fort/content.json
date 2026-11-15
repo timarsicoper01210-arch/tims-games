@@ -1,0 +1,43 @@
+{
+  "title": "Qui tape le plus fort ?",
+  "theme": "morsures du monde animal",
+  "hook": "Un seul dépasse le crocodile… tu le vois avant la fin ? 🦈",
+  "question": "Quelle morsure est la plus puissante ?",
+  "unit": "kg de force",
+  "items": [
+    {
+      "label": "Crocodile marin",
+      "value": 1680
+    },
+    {
+      "label": "Hippopotame",
+      "value": 1200
+    },
+    {
+      "label": "Requin blanc",
+      "value": 600
+    },
+    {
+      "label": "Lion",
+      "value": 290
+    },
+    {
+      "label": "Hyène tachetée",
+      "value": 500
+    },
+    {
+      "label": "Berger allemand",
+      "value": 110
+    },
+    {
+      "label": "Humain (molaires)",
+      "value": 80
+    },
+    {
+      "label": "Tortue serpentine",
+      "value": 94
+    }
+  ],
+  "date": "2026-11-15",
+  "engine": "duel"
+}
