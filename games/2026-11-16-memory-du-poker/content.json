@@ -1,0 +1,17 @@
+{
+  "title": "Memory du poker",
+  "theme": "poker",
+  "hook": "Deux cartes se cachent à la fin... tu les retrouves de tête ? 👀",
+  "pairs": [
+    "♠️",
+    "♥️",
+    "♦️",
+    "♣️",
+    "🃏",
+    "🎰",
+    "💰",
+    "🕶️"
+  ],
+  "date": "2026-11-16",
+  "engine": "memory"
+}
