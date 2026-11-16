@@ -1,0 +1,14 @@
+{
+  "title": "Les couches de la Terre",
+  "theme": "Géologie",
+  "hook": "De la surface au centre : tu le fais sans faute ?",
+  "items": [
+    "Croûte",
+    "Manteau sup.",
+    "Manteau inf.",
+    "Noyau externe",
+    "Noyau interne"
+  ],
+  "date": "2026-11-16",
+  "engine": "ranking"
+}
