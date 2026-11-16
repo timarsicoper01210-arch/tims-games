@@ -1,0 +1,89 @@
+{
+  "title": "Tu connais vraiment le Monopoly ?",
+  "theme": "Monopoly",
+  "hook": "La dernière fait tomber tous les champions du plateau 👀",
+  "questions": [
+    {
+      "q": "Quelle est la rue la plus chère du Monopoly français ?",
+      "choices": [
+        "Avenue Foch",
+        "Rue de la Paix",
+        "Boulevard Haussmann",
+        "Rue de Rivoli"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Combien de cases compte le plateau du Monopoly ?",
+      "choices": [
+        "36",
+        "38",
+        "40",
+        "44"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Combien coûte l'amende pour sortir de prison ?",
+      "choices": [
+        "50 €",
+        "75 €",
+        "100 €",
+        "150 €"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Combien de maisons faut-il pour construire un hôtel ?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Quelle gare ne figure pas sur le plateau français ?",
+      "choices": [
+        "Gare du Nord",
+        "Gare de Lyon",
+        "Gare Montparnasse",
+        "Gare d'Austerlitz"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "De quelle couleur est la Rue de la Paix ?",
+      "choices": [
+        "Bleu foncé",
+        "Vert",
+        "Rouge",
+        "Jaune"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quelle est la rue la moins chère du plateau français ?",
+      "choices": [
+        "Rue Lecourbe",
+        "Boulevard de Belleville",
+        "Rue de Vaugirard",
+        "Avenue de Breteuil"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Combien touche-t-on en passant par la case Départ ?",
+      "choices": [
+        "50 €",
+        "100 €",
+        "150 €",
+        "200 €"
+      ],
+      "answer": 3
+    }
+  ],
+  "date": "2026-11-16",
+  "engine": "quiz"
+}
