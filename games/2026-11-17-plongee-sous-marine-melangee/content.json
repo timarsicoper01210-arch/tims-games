@@ -1,0 +1,33 @@
+{
+  "title": "Plongée sous-marine mélangée",
+  "theme": "plongée sous-marine",
+  "hook": "Le dernier, personne ne le trouve… et toi ? 🤿",
+  "items": [
+    {
+      "word": "PALMES",
+      "hint": "Aux pieds, elles font avancer plus vite dans l'eau"
+    },
+    {
+      "word": "MASQUE",
+      "hint": "Il protège les yeux et permet de voir sous l'eau"
+    },
+    {
+      "word": "TUBA",
+      "hint": "Ce tube sert à respirer, la tête dans l'eau"
+    },
+    {
+      "word": "BOUTEILLE",
+      "hint": "Réserve d'air portée sur le dos du plongeur"
+    },
+    {
+      "word": "CORAIL",
+      "hint": "Il forme des récifs colorés dans les mers chaudes"
+    },
+    {
+      "word": "EPAVE",
+      "hint": "Bateau coulé que l'on explore au fond de la mer"
+    }
+  ],
+  "date": "2026-11-17",
+  "engine": "scramble"
+}
