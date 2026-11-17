@@ -1,0 +1,17 @@
+{
+  "title": "Cambriolage d'escargots : la ferme",
+  "theme": "la ferme",
+  "hook": "Le dernier se planque vraiment bien… tu le vois ? 🚜",
+  "words": [
+    "TRACTEUR",
+    "GRANGE",
+    "FOIN",
+    "POULE",
+    "ETABLE",
+    "VACHE",
+    "SILLON",
+    "FERMIER"
+  ],
+  "date": "2026-11-17",
+  "engine": "word-search"
+}
