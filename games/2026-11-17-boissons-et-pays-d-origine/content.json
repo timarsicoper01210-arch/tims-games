@@ -1,0 +1,41 @@
+{
+  "title": "Boissons et pays d'origine",
+  "theme": "Boissons du monde",
+  "hook": "Il y en a une que personne ne case bien… et toi ? 👀",
+  "pairs": [
+    {
+      "left": "SAKÉ",
+      "right": "JAPON"
+    },
+    {
+      "left": "TEQUILA",
+      "right": "MEXIQUE"
+    },
+    {
+      "left": "VODKA",
+      "right": "RUSSIE"
+    },
+    {
+      "left": "OUZO",
+      "right": "GRÈCE"
+    },
+    {
+      "left": "WHISKY",
+      "right": "ÉCOSSE"
+    },
+    {
+      "left": "CHAMPAGNE",
+      "right": "FRANCE"
+    },
+    {
+      "left": "MOJITO",
+      "right": "CUBA"
+    },
+    {
+      "left": "CAÏPIRINHA",
+      "right": "BRÉSIL"
+    }
+  ],
+  "date": "2026-11-17",
+  "engine": "relie"
+}
