@@ -1,0 +1,43 @@
+{
+  "title": "Vélo ou Moto ?",
+  "theme": "Vélo et moto",
+  "hook": "Un seul mot piège tout le monde ici 👀",
+  "categoryA": "Vélo",
+  "categoryB": "Moto",
+  "items": [
+    {
+      "label": "Pédales",
+      "side": "A"
+    },
+    {
+      "label": "Embrayage",
+      "side": "B"
+    },
+    {
+      "label": "Dérailleur",
+      "side": "A"
+    },
+    {
+      "label": "Réservoir d'essence",
+      "side": "B"
+    },
+    {
+      "label": "Sonnette",
+      "side": "A"
+    },
+    {
+      "label": "Pot d'échappement",
+      "side": "B"
+    },
+    {
+      "label": "Porte-bidon",
+      "side": "A"
+    },
+    {
+      "label": "Démarreur",
+      "side": "B"
+    }
+  ],
+  "date": "2026-11-18",
+  "engine": "tri"
+}
