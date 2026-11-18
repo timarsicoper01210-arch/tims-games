@@ -1,0 +1,13 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>Écho du stand de tir à l'arc — Écho</title>
+<meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="data:,"><meta name="description" content="Écho gratuit du jour : Le tir à l'arc. Ta mémoire lâche à la combientième manche ? 🎯">
+<link rel="stylesheet" href="../../_shared/style.css">
+<style>
+.eq-status { text-align:center; color:var(--muted); margin:0 0 12px; min-height:1.5em; font-weight:600; }
+.eq-grid { display:grid; grid-template-columns:repeat(2,1fr); gap:10px; width:100%; }
+.eq-tile { aspect-ratio:4/3; border:0; border-radius:14px; background:var(--card); color:var(--text); font-size:clamp(1.6rem,11vw,2.8rem); cursor:pointer; transition:background .12s,transform .12s; }
+.eq-tile.eq-flash { background:#ffd166; color:#111; transform:scale(.96); }
+.eq-tile.eq-bad { background:var(--bad); color:#fff; }
+</style></head>
+<body><main id="game"></main>
+<script src="../../_shared/runtime-core.js"></script><script src="../../_shared/runtime.js"></script>
+<script src="logic.js"></script><script src="game.js"></script></body></html>
