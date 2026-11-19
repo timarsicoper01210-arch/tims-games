@@ -1,0 +1,33 @@
+{
+  "title": "Mot mystère : la cuisine d'un resto",
+  "theme": "Brigade de cuisine",
+  "hook": "Celui en 9 lettres bloque tout le monde… et toi ? 👀",
+  "words": [
+    {
+      "word": "TOQUE",
+      "hint": "Haut chapeau blanc posé sur la tête du cuisinier"
+    },
+    {
+      "word": "PASSE",
+      "hint": "Comptoir chaud où l'on dépose les plats pour la salle"
+    },
+    {
+      "word": "PIANO",
+      "hint": "Nom donné au grand fourneau central, pas à l'instrument"
+    },
+    {
+      "word": "ECUMOIRE",
+      "hint": "Grande cuillère trouée pour retirer ce qui flotte"
+    },
+    {
+      "word": "PLONGEUR",
+      "hint": "Celui qui lave sans arrêt casseroles et assiettes"
+    },
+    {
+      "word": "MIGNONNET",
+      "hint": "Poivre concassé en gros grains, pas moulu"
+    }
+  ],
+  "date": "2026-11-19",
+  "engine": "mot-mystere"
+}
