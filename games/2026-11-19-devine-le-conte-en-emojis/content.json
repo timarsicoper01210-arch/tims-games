@@ -1,0 +1,89 @@
+{
+  "title": "Devine le conte en emojis",
+  "theme": "contes de fées",
+  "hook": "Personne ne trouve le dernier… et toi ? 👀",
+  "questions": [
+    {
+      "q": "👠🕛",
+      "choices": [
+        "Raiponce",
+        "Cendrillon",
+        "Blanche-Neige",
+        "Le Chat botté"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🍎😴🧙‍♀️",
+      "choices": [
+        "Le Petit Poucet",
+        "Boucle d'or",
+        "Blanche-Neige",
+        "Le Vilain Petit Canard"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🐺🔴🧺",
+      "choices": [
+        "Le Petit Chaperon Rouge",
+        "Les Trois Petits Cochons",
+        "Pierre et le loup",
+        "Le Petit Poucet"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🏠🍬👵",
+      "choices": [
+        "Jack et le haricot magique",
+        "Boucle d'or",
+        "Pinocchio",
+        "Hansel et Gretel"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "👱‍♀️🗼",
+      "choices": [
+        "La Petite Sirène",
+        "Cendrillon",
+        "Raiponce",
+        "Peau d'âne"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🐷🐷🐷🏠",
+      "choices": [
+        "Les Trois Mousquetaires",
+        "Les Trois Petits Cochons",
+        "Les Musiciens de Brême",
+        "Le Loup et l'Agneau"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🫛🛏️👑",
+      "choices": [
+        "La Belle au bois dormant",
+        "Le Roi Grenouille",
+        "Peau d'âne",
+        "La Princesse au petit pois"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🐱👢",
+      "choices": [
+        "Le Chat botté",
+        "Le Maître Chat du moulin",
+        "Les Aristochats",
+        "Le Chat de Cheshire"
+      ],
+      "answer": 0
+    }
+  ],
+  "date": "2026-11-19",
+  "engine": "emoji-guess"
+}
