@@ -1,0 +1,39 @@
+{
+  "title": "Qui domine ? Le choc des statues géantes",
+  "theme": "Statues géantes du monde",
+  "hook": "La Statue de la Liberté est plus petite que tu crois… tu devines son rang ? 👀",
+  "question": "Laquelle est la plus haute ?",
+  "unit": "m",
+  "items": [
+    {
+      "label": "Statue de l'Unité (Inde)",
+      "value": 182
+    },
+    {
+      "label": "Grand Bouddha de Lushan",
+      "value": 128
+    },
+    {
+      "label": "Mère-Patrie (Volgograd)",
+      "value": 85
+    },
+    {
+      "label": "Liberté (statue seule)",
+      "value": 46
+    },
+    {
+      "label": "Christ Rédempteur (Rio)",
+      "value": 30
+    },
+    {
+      "label": "Visages du mont Rushmore",
+      "value": 18
+    },
+    {
+      "label": "Lion de Belfort",
+      "value": 11
+    }
+  ],
+  "date": "2026-11-20",
+  "engine": "duel"
+}
