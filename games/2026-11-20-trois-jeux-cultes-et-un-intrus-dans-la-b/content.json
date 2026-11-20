@@ -1,0 +1,63 @@
+{
+  "title": "Trois jeux cultes et un intrus dans la borne",
+  "theme": "Jeux vidéo rétro",
+  "hook": "Le dernier piège fait tomber tout le monde… et toi ? 👀",
+  "rounds": [
+    {
+      "rule": "Consoles de jeu",
+      "odd": "Walkman",
+      "others": [
+        "Super Nintendo",
+        "Mega Drive",
+        "PlayStation 2"
+      ]
+    },
+    {
+      "rule": "Jeux de course",
+      "odd": "Tetris",
+      "others": [
+        "Mario Kart",
+        "Gran Turismo",
+        "Need for Speed"
+      ]
+    },
+    {
+      "rule": "Jeux de combat",
+      "odd": "Pac-Man",
+      "others": [
+        "Street Fighter",
+        "Tekken",
+        "Mortal Kombat"
+      ]
+    },
+    {
+      "rule": "Personnages de Mario",
+      "odd": "Sonic",
+      "others": [
+        "Luigi",
+        "Yoshi",
+        "Bowser"
+      ]
+    },
+    {
+      "rule": "Jeux de tir",
+      "odd": "Les Sims",
+      "others": [
+        "Doom",
+        "Quake",
+        "Half-Life"
+      ]
+    },
+    {
+      "rule": "Sagas de Nintendo",
+      "odd": "Crash Bandicoot",
+      "others": [
+        "Zelda",
+        "Metroid",
+        "Pikmin"
+      ]
+    }
+  ],
+  "date": "2026-11-20",
+  "engine": "odd-one-out"
+}
