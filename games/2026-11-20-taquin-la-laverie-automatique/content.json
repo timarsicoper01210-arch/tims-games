@@ -1,0 +1,17 @@
+{
+  "title": "Taquin : la laverie automatique",
+  "theme": "Laverie automatique",
+  "hook": "Tout a fini dans le même tambour 🌀 Tu remets de l'ordre en moins de 30 coups ?",
+  "tiles": [
+    "🧺",
+    "🧼",
+    "🧦",
+    "🌀",
+    "🪙",
+    "⏱️",
+    "🧽",
+    "🧹"
+  ],
+  "date": "2026-11-20",
+  "engine": "taquin"
+}
