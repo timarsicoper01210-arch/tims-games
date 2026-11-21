@@ -1,0 +1,89 @@
+{
+  "title": "Pirates : le quiz du pavillon noir",
+  "theme": "pirates et flibustiers",
+  "hook": "Personne ne trouve la dernière… et toi ? 👀",
+  "questions": [
+    {
+      "q": "Quel était le vrai nom du pirate Barbe Noire ?",
+      "choices": [
+        "Edward Teach",
+        "Henry Morgan",
+        "William Kidd",
+        "Jack Rackham"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Comment appelle-t-on le drapeau pirate à tête de mort ?",
+      "choices": [
+        "Black Pearl",
+        "Jolly Roger",
+        "Croix du Sud",
+        "Union Jack"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quelle île des Caraïbes fut un célèbre repaire de flibustiers ?",
+      "choices": [
+        "Malte",
+        "Chypre",
+        "Île de la Tortue",
+        "Ibiza"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Quelle pirate naviguait aux côtés de Mary Read ?",
+      "choices": [
+        "Anne Bonny",
+        "Jeanne de Clisson",
+        "Ching Shih",
+        "Grace O'Malley"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Comment appelle-t-on un marin autorisé par son roi à attaquer les navires ennemis ?",
+      "choices": [
+        "Un mousse",
+        "Un charpentier",
+        "Un boucanier",
+        "Un corsaire"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Quel nom donne-t-on au plus jeune marin à bord ?",
+      "choices": [
+        "Le second",
+        "Le mousse",
+        "Le timonier",
+        "Le bosco"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quelle maladie due au manque de vitamine C frappait les équipages ?",
+      "choices": [
+        "La peste",
+        "Le typhus",
+        "Le scorbut",
+        "La malaria"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Quel instrument servait à se repérer en mer grâce aux astres ?",
+      "choices": [
+        "Le sonar",
+        "Le baromètre",
+        "Le télégraphe",
+        "Le sextant"
+      ],
+      "answer": 3
+    }
+  ],
+  "date": "2026-11-21",
+  "engine": "quiz"
+}
