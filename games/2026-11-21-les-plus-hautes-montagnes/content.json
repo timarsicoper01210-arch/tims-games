@@ -1,0 +1,15 @@
+{
+  "title": "Les plus hautes montagnes",
+  "theme": "Altitude des montagnes",
+  "hook": "Du plus bas au plus haut... personne n'y arrive, et toi ? 🏔️",
+  "items": [
+    "Mont Fuji",
+    "Mont Blanc",
+    "Kilimandjaro",
+    "Denali",
+    "Aconcagua",
+    "Everest"
+  ],
+  "date": "2026-11-21",
+  "engine": "ranking"
+}
