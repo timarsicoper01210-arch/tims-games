@@ -1,0 +1,17 @@
+{
+  "title": "Memory bonbons rétro",
+  "theme": "bonbons et sucreries",
+  "hook": "Personne ne retrouve la dernière paire du premier coup… et toi ? 🍬",
+  "pairs": [
+    "🍬",
+    "🍭",
+    "🍫",
+    "🍩",
+    "🍪",
+    "🧁",
+    "🍦",
+    "🥨"
+  ],
+  "date": "2026-11-21",
+  "engine": "memory"
+}
