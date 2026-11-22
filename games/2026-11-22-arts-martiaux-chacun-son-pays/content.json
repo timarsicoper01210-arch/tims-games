@@ -1,0 +1,41 @@
+{
+  "title": "Arts martiaux : chacun son pays",
+  "theme": "Arts martiaux",
+  "hook": "Un seul de ces pays surprend tout le monde. Tu le trouves avant moi ? 👀",
+  "pairs": [
+    {
+      "left": "JUDO",
+      "right": "JAPON"
+    },
+    {
+      "left": "CAPOEIRA",
+      "right": "BRESIL"
+    },
+    {
+      "left": "TAEKWONDO",
+      "right": "COREE"
+    },
+    {
+      "left": "MUAY THAI",
+      "right": "THAILANDE"
+    },
+    {
+      "left": "SAVATE",
+      "right": "FRANCE"
+    },
+    {
+      "left": "KUNG FU",
+      "right": "CHINE"
+    },
+    {
+      "left": "SAMBO",
+      "right": "RUSSIE"
+    },
+    {
+      "left": "KRAV MAGA",
+      "right": "ISRAEL"
+    }
+  ],
+  "date": "2026-11-22",
+  "engine": "relie"
+}
