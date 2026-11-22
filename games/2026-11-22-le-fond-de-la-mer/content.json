@@ -1,0 +1,19 @@
+{
+  "title": "Le fond de la mer",
+  "theme": "Créatures des abysses",
+  "hook": "Deux fonds marins identiques... sauf quatre détails. Tu craques avant moi ? 🐙",
+  "symboles": [
+    "🐙",
+    "🦑",
+    "🦐",
+    "🦀",
+    "🐡",
+    "🪼",
+    "🐚",
+    "🦞",
+    "⭐",
+    "🐠"
+  ],
+  "date": "2026-11-22",
+  "engine": "differences"
+}
