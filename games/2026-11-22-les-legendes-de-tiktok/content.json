@@ -1,0 +1,33 @@
+{
+  "title": "Les légendes de TikTok",
+  "theme": "mythes et légendes modernes",
+  "hook": "Quel mythe cache ce mot ? Réponds avant que je ne le dise 👀",
+  "items": [
+    {
+      "word": "DRAGON",
+      "hint": "Créature de feu et de fumée"
+    },
+    {
+      "word": "CHAMPION",
+      "hint": "Celui qui remporte les défis"
+    },
+    {
+      "word": "MYSTERE",
+      "hint": "Chose inconnue ou obscure"
+    },
+    {
+      "word": "LEGEND",
+      "hint": "Histoire passée devenue célèbre"
+    },
+    {
+      "word": "LEGENDE",
+      "hint": "Histoire ancienne ou moderne"
+    },
+    {
+      "word": "FANTOME",
+      "hint": "Esprit errant d'un lieu"
+    }
+  ],
+  "date": "2026-11-22",
+  "engine": "scramble"
+}
