@@ -1,0 +1,43 @@
+{
+  "title": "Ça pousse ou ça rampe ?",
+  "theme": "Jardin : fleurs et rampants",
+  "hook": "Y en a un qui piège tout le monde… et toi ? 👀",
+  "categoryA": "Fleur",
+  "categoryB": "Rampant",
+  "items": [
+    {
+      "label": "Tournesol",
+      "side": "A"
+    },
+    {
+      "label": "Escargot",
+      "side": "B"
+    },
+    {
+      "label": "Coquelicot",
+      "side": "A"
+    },
+    {
+      "label": "Limace",
+      "side": "B"
+    },
+    {
+      "label": "Pivoine",
+      "side": "A"
+    },
+    {
+      "label": "Ver de terre",
+      "side": "B"
+    },
+    {
+      "label": "Marguerite",
+      "side": "A"
+    },
+    {
+      "label": "Mille-pattes",
+      "side": "B"
+    }
+  ],
+  "date": "2026-11-23",
+  "engine": "tri"
+}
