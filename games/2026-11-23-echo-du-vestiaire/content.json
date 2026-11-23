@@ -1,0 +1,14 @@
+{
+  "title": "Écho du vestiaire",
+  "theme": "Sports et ballons",
+  "hook": "La dernière manche, personne ne la retient. Et toi ? 👀",
+  "items": [
+    "⚽",
+    "🏀",
+    "🎾",
+    "🏓",
+    "🥊"
+  ],
+  "date": "2026-11-23",
+  "engine": "echo"
+}
