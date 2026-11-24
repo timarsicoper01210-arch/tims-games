@@ -1,0 +1,33 @@
+{
+  "title": "Mot mystère : la tempête",
+  "theme": "orage et tempête",
+  "hook": "Le mot de 5 lettres bloque tout le monde… tu le vois tout de suite ? 👀",
+  "words": [
+    {
+      "word": "FOUDRE",
+      "hint": "Décharge blanche qui frappe le sol en un éclair"
+    },
+    {
+      "word": "GRELE",
+      "hint": "Billes de glace qui martèlent les toits"
+    },
+    {
+      "word": "RAFALE",
+      "hint": "Coup de vent brusque et très court"
+    },
+    {
+      "word": "TONNERRE",
+      "hint": "Grondement qui arrive après la lumière"
+    },
+    {
+      "word": "NUAGE",
+      "hint": "Masse grise qui annonce la pluie"
+    },
+    {
+      "word": "ABRI",
+      "hint": "Endroit couvert où l'on se met au sec"
+    }
+  ],
+  "date": "2026-11-24",
+  "engine": "mot-mystere"
+}
