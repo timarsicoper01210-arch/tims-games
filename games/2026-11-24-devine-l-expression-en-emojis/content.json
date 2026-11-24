@@ -1,0 +1,89 @@
+{
+  "title": "Devine l'expression en émojis",
+  "theme": "expressions françaises imagées",
+  "hook": "Celle avec le fromage piège tout le monde… et toi ? 👀",
+  "questions": [
+    {
+      "q": "🐱👅",
+      "choices": [
+        "Avoir un chat dans la gorge",
+        "Donner sa langue au chat",
+        "Appeler un chat un chat",
+        "Avoir d'autres chats à fouetter"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🎩🐰",
+      "choices": [
+        "Poser un lapin",
+        "Travailler du chapeau",
+        "Sortir un lapin du chapeau",
+        "Courir comme un lapin"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🍐🧀",
+      "choices": [
+        "Faire tout un fromage",
+        "Garder une poire pour la soif",
+        "Couper la poire en deux",
+        "Entre la poire et le fromage"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🐘🧠",
+      "choices": [
+        "Une mémoire d'éléphant",
+        "Un éléphant dans un couloir",
+        "Avoir la tête dans les nuages",
+        "Un travail de fourmi"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "🥕🪵",
+      "choices": [
+        "Les carottes sont cuites",
+        "La carotte et le bâton",
+        "Mettre des bâtons dans les roues",
+        "Manger les pissenlits"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "🐭🐱",
+      "choices": [
+        "Être fait comme un rat",
+        "La montagne accouche d'une souris",
+        "Jouer au chat et à la souris",
+        "Quand le chat n'est pas là"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "🌰🔥",
+      "choices": [
+        "Avoir le feu sacré",
+        "Mettre la main au feu",
+        "Il n'y a pas de fumée sans feu",
+        "Tirer les marrons du feu"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "🧅🙊",
+      "choices": [
+        "En rang d'oignons",
+        "Aux petits oignons",
+        "Occupe-toi de tes oignons",
+        "Avoir la larme à l'œil"
+      ],
+      "answer": 2
+    }
+  ],
+  "date": "2026-11-24",
+  "engine": "emoji-guess"
+}
