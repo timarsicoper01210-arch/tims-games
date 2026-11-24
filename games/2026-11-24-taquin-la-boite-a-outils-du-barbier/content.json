@@ -1,0 +1,17 @@
+{
+  "title": "Taquin : la boîte à outils du barbier",
+  "theme": "Barbier et coiffure",
+  "hook": "Le salon est sens dessus dessous ✂️ Tu remets tout d'aplomb en moins de 30 coups ?",
+  "tiles": [
+    "✂️",
+    "💈",
+    "🪒",
+    "🧴",
+    "🪞",
+    "💇",
+    "🧼",
+    "🧹"
+  ],
+  "date": "2026-11-24",
+  "engine": "taquin"
+}
