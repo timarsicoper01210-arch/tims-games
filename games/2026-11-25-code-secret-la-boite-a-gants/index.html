@@ -1,0 +1,23 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>Code secret : la boîte à gants — Code secret</title>
+<meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="data:,"><meta name="description" content="Code secret gratuit du jour : Objets de la voiture. Personne ne devine le bon ordre du premier coup… et toi ? 👀">
+<link rel="stylesheet" href="../../_shared/style.css">
+<style>
+.cs-intro { margin:0 0 10px; font-size:.92rem; line-height:1.35; }
+.cs-board { display:flex; flex-direction:column; gap:6px; }
+.cs-row { display:flex; align-items:center; gap:6px; }
+.cs-chip { width:34px; height:34px; display:flex; align-items:center; justify-content:center; border-radius:8px; background:var(--card); font-size:1.1rem; }
+.cs-fb { margin-left:auto; font-size:.9rem; white-space:nowrap; }
+.cs-current { gap:8px; margin:12px 0; }
+.cs-slot { flex:1; aspect-ratio:1/1; max-width:70px; border:2px dashed var(--accent); border-radius:12px; background:transparent; color:var(--text); font-size:clamp(1rem,7vw,1.9rem); cursor:pointer; }
+.cs-slot.filled { border-style:solid; background:var(--card); }
+.cs-palette { display:grid; grid-template-columns:repeat(3,1fr); gap:8px; margin-bottom:10px; }
+.cs-key { aspect-ratio:3/2; border:0; border-radius:12px; background:var(--accent); color:var(--text); font-size:clamp(1.1rem,8vw,2rem); cursor:pointer; }
+.cs-key.used { opacity:.3; }
+.cs-verify { width:100%; padding:12px; border:0; border-radius:12px; background:var(--ok); color:#06240f; font-weight:700; font-size:1rem; cursor:pointer; }
+.cs-verify:disabled { opacity:.45; }
+.cs-status { margin:10px 0 2px; font-size:.95rem; font-weight:700; }
+.cs-hints { margin:0 0 6px; font-size:.9rem; min-height:1.1em; }
+</style></head>
+<body><main id="game"></main>
+<script src="../../_shared/runtime-core.js"></script><script src="../../_shared/runtime.js"></script>
+<script src="logic.js"></script><script src="game.js"></script></body></html>
