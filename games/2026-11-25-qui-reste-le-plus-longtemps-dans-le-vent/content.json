@@ -1,0 +1,43 @@
+{
+  "title": "Qui reste le plus longtemps dans le ventre ?",
+  "theme": "durée de gestation des animaux",
+  "hook": "Le dromadaire bat la baleine bleue, tu l'avais senti venir ? 🐪",
+  "question": "Quelle gestation est la plus longue ?",
+  "unit": "jours",
+  "items": [
+    {
+      "label": "Éléphant d'Afrique",
+      "value": 645
+    },
+    {
+      "label": "Girafe",
+      "value": 450
+    },
+    {
+      "label": "Dromadaire",
+      "value": 390
+    },
+    {
+      "label": "Baleine bleue",
+      "value": 330
+    },
+    {
+      "label": "Humain",
+      "value": 280
+    },
+    {
+      "label": "Chien",
+      "value": 63
+    },
+    {
+      "label": "Lapin",
+      "value": 31
+    },
+    {
+      "label": "Souris",
+      "value": 20
+    }
+  ],
+  "date": "2026-11-25",
+  "engine": "duel"
+}
