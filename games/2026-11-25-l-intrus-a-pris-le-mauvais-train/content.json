@@ -1,0 +1,63 @@
+{
+  "title": "L'intrus a pris le mauvais train",
+  "theme": "Trains et gares",
+  "hook": "Le dernier piège, personne ne le voit… et toi ? 🚆",
+  "rounds": [
+    {
+      "rule": "Parties d'un train",
+      "odd": "Quai",
+      "others": [
+        "Locomotive",
+        "Wagon",
+        "Pantographe"
+      ]
+    },
+    {
+      "rule": "Ce qu'on trouve dans une gare",
+      "odd": "Couchette",
+      "others": [
+        "Guichet",
+        "Composteur",
+        "Panneau horaires"
+      ]
+    },
+    {
+      "rule": "Métiers du rail",
+      "odd": "Voyageur",
+      "others": [
+        "Conducteur",
+        "Contrôleur",
+        "Aiguilleur"
+      ]
+    },
+    {
+      "rule": "Posé au sol sur la voie ferrée",
+      "odd": "Caténaire",
+      "others": [
+        "Rail",
+        "Traverse",
+        "Ballast"
+      ]
+    },
+    {
+      "rule": "Trains à grande vitesse",
+      "odd": "Tramway",
+      "others": [
+        "TGV",
+        "Shinkansen",
+        "ICE"
+      ]
+    },
+    {
+      "rule": "Gares de Paris",
+      "odd": "Gare Saint-Charles",
+      "others": [
+        "Gare de Lyon",
+        "Gare Montparnasse",
+        "Gare Saint-Lazare"
+      ]
+    }
+  ],
+  "date": "2026-11-25",
+  "engine": "odd-one-out"
+}
