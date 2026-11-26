@@ -1,0 +1,89 @@
+{
+  "title": "Le quiz des phares et des naufrages",
+  "theme": "phares et signaux maritimes",
+  "hook": "Celui sur les phares, personne ne le finit sans faute… et toi ? 🌊",
+  "questions": [
+    {
+      "q": "Comment s'appelle le personnage qui vit dans un phare pour l'entretenir ?",
+      "choices": [
+        "Le gardien",
+        "Le vigile",
+        "Le timonier",
+        "Le pilote"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Quel célèbre phare de l'Antiquité se trouvait en Égypte ?",
+      "choices": [
+        "Le phare de Rhodes",
+        "Le phare d'Alexandrie",
+        "Le phare de Carthage",
+        "Le phare d'Athènes"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quelle lentille, inventée en France, concentre la lumière des phares ?",
+      "choices": [
+        "La lentille de Newton",
+        "La lentille de Galilée",
+        "La lentille de Fresnel",
+        "La lentille de Pascal"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Que signale une bouée rouge et blanche à rayures verticales ?",
+      "choices": [
+        "Un port fermé",
+        "Une zone de pêche",
+        "Une épave récente",
+        "Le milieu du chenal"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Comment reconnaît-on un phare la nuit, à distance ?",
+      "choices": [
+        "À sa hauteur",
+        "À son signal lumineux",
+        "À sa couleur de jour",
+        "À sa sirène"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Quel signal sonore sert aux marins quand le brouillard masque le phare ?",
+      "choices": [
+        "La corne de brume",
+        "Le gong",
+        "Le sifflet",
+        "Le tambour"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Comment appelle-t-on un phare bâti en pleine mer, loin de toute côte ?",
+      "choices": [
+        "Un phare de port",
+        "Un phare de terre",
+        "Un phare en mer",
+        "Un phare d'estuaire"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Quel paquebot a coulé en 1912 après avoir heurté un iceberg ?",
+      "choices": [
+        "Le Lusitania",
+        "Le Normandie",
+        "Le Britannic",
+        "Le Titanic"
+      ],
+      "answer": 3
+    }
+  ],
+  "date": "2026-11-26",
+  "engine": "quiz"
+}
