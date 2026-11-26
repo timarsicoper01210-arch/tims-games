@@ -1,0 +1,15 @@
+{
+  "title": "Du doigt au colosse",
+  "theme": "Taille des dinosaures",
+  "hook": "Du plus petit au plus grand : tu le fais sans faute ?",
+  "items": [
+    "Compsognathus",
+    "Vélociraptor",
+    "Allosaure",
+    "Tyrannosaure",
+    "Brachiosaure",
+    "Argentinosaure"
+  ],
+  "date": "2026-11-26",
+  "engine": "ranking"
+}
