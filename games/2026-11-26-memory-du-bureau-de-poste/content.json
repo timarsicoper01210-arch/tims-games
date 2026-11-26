@@ -1,0 +1,17 @@
+{
+  "title": "Memory du bureau de poste",
+  "theme": "bureau de poste",
+  "hook": "Celle du milieu, tout le monde la rate… et toi ? 📮",
+  "pairs": [
+    "📮",
+    "✉️",
+    "📦",
+    "📬",
+    "🗳️",
+    "📪",
+    "🏤",
+    "📯"
+  ],
+  "date": "2026-11-26",
+  "engine": "memory"
+}
