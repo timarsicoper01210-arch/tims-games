@@ -1,0 +1,41 @@
+{
+  "title": "Comment s'appelle leur bébé ?",
+  "theme": "Bébés animaux",
+  "hook": "Le dernier, presque personne ne le trouve… et toi ? 🐣",
+  "pairs": [
+    {
+      "left": "CHEVAL",
+      "right": "POULAIN"
+    },
+    {
+      "left": "VACHE",
+      "right": "VEAU"
+    },
+    {
+      "left": "MOUTON",
+      "right": "AGNEAU"
+    },
+    {
+      "left": "BICHE",
+      "right": "FAON"
+    },
+    {
+      "left": "POULE",
+      "right": "POUSSIN"
+    },
+    {
+      "left": "CANE",
+      "right": "CANETON"
+    },
+    {
+      "left": "LAPINE",
+      "right": "LAPEREAU"
+    },
+    {
+      "left": "OIE",
+      "right": "OISON"
+    }
+  ],
+  "date": "2026-11-27",
+  "engine": "relie"
+}
