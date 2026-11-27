@@ -1,0 +1,17 @@
+{
+  "title": "Le rayon des bonbons",
+  "theme": "Bonbons et sucreries",
+  "hook": "Deux rayons soi-disant identiques... ton œil va craquer avant toi 🍭",
+  "symboles": [
+    "🍬",
+    "🍭",
+    "🍫",
+    "🍩",
+    "🧁",
+    "🍪",
+    "🍮",
+    "🍯"
+  ],
+  "date": "2026-11-27",
+  "engine": "differences"
+}

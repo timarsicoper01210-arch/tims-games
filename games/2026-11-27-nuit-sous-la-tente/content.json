@@ -1,0 +1,19 @@
+{
+  "title": "Nuit sous la tente",
+  "theme": "Camping sauvage",
+  "hook": "Tu repères ce qui a disparu du campement avant moi ? 🔦",
+  "symboles": [
+    "⛺",
+    "🔥",
+    "🔦",
+    "🎒",
+    "🧭",
+    "🪓",
+    "🥫",
+    "🐻",
+    "🌲",
+    "🦟"
+  ],
+  "date": "2026-11-27",
+  "engine": "differences"
+}
