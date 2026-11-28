@@ -1,0 +1,33 @@
+{
+  "title": "Les objets du bowling",
+  "theme": "bowling",
+  "hook": "Celui-là, personne ne le trouve… et toi ? 🎳",
+  "items": [
+    {
+      "word": "QUILLE",
+      "hint": "Pièce blanche qu'on fait tomber au fond de la piste"
+    },
+    {
+      "word": "BOULE",
+      "hint": "Objet lourd percé de trois trous"
+    },
+    {
+      "word": "PISTE",
+      "hint": "Couloir ciré sur lequel l'objet roule"
+    },
+    {
+      "word": "RIGOLE",
+      "hint": "Creux sur les côtés où finissent les ratés"
+    },
+    {
+      "word": "STRIKE",
+      "hint": "Tout fait tomber du premier coup"
+    },
+    {
+      "word": "CHAUSSURE",
+      "hint": "On doit l'emprunter avant de jouer"
+    }
+  ],
+  "date": "2026-11-28",
+  "engine": "scramble"
+}
